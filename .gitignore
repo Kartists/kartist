@@ -1,0 +1,6 @@
+# yerel gelistirme / build sirasinda olusan, repoya girmemesi gereken dosyalar
+.wrangler/
+node_modules/
+*.pyc
+__pycache__/
+.DS_Store

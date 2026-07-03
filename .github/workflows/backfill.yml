@@ -1,0 +1,45 @@
+name: Grafik Backfill (tek seferlik)
+on:
+  schedule:
+    - cron: '40 2,5,8,11,14,17,20 * * *'   # gunde 7 kosu, gece guncellemesiyle ayni kuyrukta
+  workflow_dispatch:
+
+concurrency:
+  group: kartist-tek
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 118
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Kart sayfalarindan chart_data topla (100 dk butce)
+        run: python3 araclar/chart_backfill.py 6000
+
+      - name: Set paketlerini uret
+        run: python3 araclar/grafik_paketle.py
+
+      - name: Bittiyse bu workflow'u kaldir
+        run: |
+          if [ -f veri/grafik_ham/TAMAM ]; then
+            git rm .github/workflows/backfill.yml
+            echo "Backfill tamamlandi, workflow kaldiriliyor."
+          fi
+
+      - name: Ilerlemeyi commit et
+        run: |
+          git config user.name "kartist-bot"
+          git config user.email "bot@kartist.com.tr"
+          git add -A
+          git commit -m "backfill ilerleme: $(date -u '+%F %H:%M')" || echo "degisiklik yok"
+          git pull --rebase origin main || true
+          git push

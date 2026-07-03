@@ -1,0 +1,490 @@
+{
+ "base-set": {
+  "pc": "pokemon-base-set",
+  "ilkSayfa": 150
+ },
+ "jungle": {
+  "pc": "pokemon-jungle",
+  "ilkSayfa": 150
+ },
+ "fossil": {
+  "pc": "pokemon-fossil",
+  "ilkSayfa": 150
+ },
+ "base-set-2": {
+  "pc": "pokemon-base-set-2",
+  "ilkSayfa": 135
+ },
+ "team-rocket": {
+  "pc": "pokemon-team-rocket",
+  "ilkSayfa": 150
+ },
+ "gym-heroes": {
+  "pc": "pokemon-gym-heroes",
+  "ilkSayfa": 150
+ },
+ "gym-challenge": {
+  "pc": "pokemon-gym-challenge",
+  "ilkSayfa": 150
+ },
+ "neo-genesis": {
+  "pc": "pokemon-neo-genesis",
+  "ilkSayfa": 150
+ },
+ "neo-discovery": {
+  "pc": "pokemon-neo-discovery",
+  "ilkSayfa": 150
+ },
+ "neo-revelation": {
+  "pc": "pokemon-neo-revelation",
+  "ilkSayfa": 149
+ },
+ "neo-destiny": {
+  "pc": "pokemon-neo-destiny",
+  "ilkSayfa": 150
+ },
+ "legendary-collection": {
+  "pc": "pokemon-legendary-collection",
+  "ilkSayfa": 150
+ },
+ "sandstorm": {
+  "pc": "pokemon-sandstorm",
+  "ilkSayfa": 150
+ },
+ "dragon": {
+  "pc": "pokemon-dragon",
+  "ilkSayfa": 150
+ },
+ "hidden-legends": {
+  "pc": "pokemon-hidden-legends",
+  "ilkSayfa": 150
+ },
+ "team-rocket-returns": {
+  "pc": "pokemon-team-rocket-returns",
+  "ilkSayfa": 150
+ },
+ "deoxys": {
+  "pc": "pokemon-deoxys",
+  "ilkSayfa": 150
+ },
+ "emerald": {
+  "pc": "pokemon-emerald",
+  "ilkSayfa": 150
+ },
+ "unseen-forces": {
+  "pc": "pokemon-unseen-forces",
+  "ilkSayfa": 150
+ },
+ "delta-species": {
+  "pc": "pokemon-delta-species",
+  "ilkSayfa": 150
+ },
+ "legend-maker": {
+  "pc": "pokemon-legend-maker",
+  "ilkSayfa": 150
+ },
+ "holon-phantoms": {
+  "pc": "pokemon-holon-phantoms",
+  "ilkSayfa": 150
+ },
+ "crystal-guardians": {
+  "pc": "pokemon-crystal-guardians",
+  "ilkSayfa": 150
+ },
+ "dragon-frontiers": {
+  "pc": "pokemon-dragon-frontiers",
+  "ilkSayfa": 150
+ },
+ "power-keepers": {
+  "pc": "pokemon-power-keepers",
+  "ilkSayfa": 150
+ },
+ "mysterious-treasures": {
+  "pc": "pokemon-mysterious-treasures",
+  "ilkSayfa": 150
+ },
+ "secret-wonders": {
+  "pc": "pokemon-secret-wonders",
+  "ilkSayfa": 150
+ },
+ "great-encounters": {
+  "pc": "pokemon-great-encounters",
+  "ilkSayfa": 150
+ },
+ "majestic-dawn": {
+  "pc": "pokemon-majestic-dawn",
+  "ilkSayfa": 150
+ },
+ "legends-awakened": {
+  "pc": "pokemon-legends-awakened",
+  "ilkSayfa": 150
+ },
+ "stormfront": {
+  "pc": "pokemon-stormfront",
+  "ilkSayfa": 150
+ },
+ "platinum": {
+  "pc": "pokemon-platinum",
+  "ilkSayfa": 150
+ },
+ "rising-rivals": {
+  "pc": "pokemon-rising-rivals",
+  "ilkSayfa": 150
+ },
+ "supreme-victors": {
+  "pc": "pokemon-supreme-victors",
+  "ilkSayfa": 150
+ },
+ "arceus": {
+  "pc": "pokemon-arceus",
+  "ilkSayfa": 150
+ },
+ "call-of-legends": {
+  "pc": "pokemon-call-of-legends",
+  "ilkSayfa": 150
+ },
+ "emerging-powers": {
+  "pc": "pokemon-emerging-powers",
+  "ilkSayfa": 150
+ },
+ "noble-victories": {
+  "pc": "pokemon-noble-victories",
+  "ilkSayfa": 150
+ },
+ "next-destinies": {
+  "pc": "pokemon-next-destinies",
+  "ilkSayfa": 150
+ },
+ "dark-explorers": {
+  "pc": "pokemon-dark-explorers",
+  "ilkSayfa": 150
+ },
+ "dragons-exalted": {
+  "pc": "pokemon-dragons-exalted",
+  "ilkSayfa": 150
+ },
+ "boundaries-crossed": {
+  "pc": "pokemon-boundaries-crossed",
+  "ilkSayfa": 150
+ },
+ "plasma-storm": {
+  "pc": "pokemon-plasma-storm",
+  "ilkSayfa": 150
+ },
+ "plasma-freeze": {
+  "pc": "pokemon-plasma-freeze",
+  "ilkSayfa": 150
+ },
+ "plasma-blast": {
+  "pc": "pokemon-plasma-blast",
+  "ilkSayfa": 150
+ },
+ "legendary-treasures": {
+  "pc": "pokemon-legendary-treasures",
+  "ilkSayfa": 150
+ },
+ "xy": {
+  "pc": "pokemon-xy",
+  "ilkSayfa": 150
+ },
+ "flashfire": {
+  "pc": "pokemon-flashfire",
+  "ilkSayfa": 150
+ },
+ "furious-fists": {
+  "pc": "pokemon-furious-fists",
+  "ilkSayfa": 150
+ },
+ "phantom-forces": {
+  "pc": "pokemon-phantom-forces",
+  "ilkSayfa": 150
+ },
+ "primal-clash": {
+  "pc": "pokemon-primal-clash",
+  "ilkSayfa": 150
+ },
+ "roaring-skies": {
+  "pc": "pokemon-roaring-skies",
+  "ilkSayfa": 150
+ },
+ "ancient-origins": {
+  "pc": "pokemon-ancient-origins",
+  "ilkSayfa": 150
+ },
+ "breakthrough": {
+  "pc": "pokemon-breakthrough",
+  "ilkSayfa": 150
+ },
+ "breakpoint": {
+  "pc": "pokemon-breakpoint",
+  "ilkSayfa": 150
+ },
+ "fates-collide": {
+  "pc": "pokemon-fates-collide",
+  "ilkSayfa": 150
+ },
+ "steam-siege": {
+  "pc": "pokemon-steam-siege",
+  "ilkSayfa": 150
+ },
+ "evolutions": {
+  "pc": "pokemon-evolutions",
+  "ilkSayfa": 150
+ },
+ "guardians-rising": {
+  "pc": "pokemon-guardians-rising",
+  "ilkSayfa": 150
+ },
+ "burning-shadows": {
+  "pc": "pokemon-burning-shadows",
+  "ilkSayfa": 150
+ },
+ "shining-legends": {
+  "pc": "pokemon-shining-legends",
+  "ilkSayfa": 150
+ },
+ "crimson-invasion": {
+  "pc": "pokemon-crimson-invasion",
+  "ilkSayfa": 150
+ },
+ "ultra-prism": {
+  "pc": "pokemon-ultra-prism",
+  "ilkSayfa": 150
+ },
+ "forbidden-light": {
+  "pc": "pokemon-forbidden-light",
+  "ilkSayfa": 150
+ },
+ "celestial-storm": {
+  "pc": "pokemon-celestial-storm",
+  "ilkSayfa": 150
+ },
+ "dragon-majesty": {
+  "pc": "pokemon-dragon-majesty",
+  "ilkSayfa": 146
+ },
+ "lost-thunder": {
+  "pc": "pokemon-lost-thunder",
+  "ilkSayfa": 150
+ },
+ "team-up": {
+  "pc": "pokemon-team-up",
+  "ilkSayfa": 150
+ },
+ "unbroken-bonds": {
+  "pc": "pokemon-unbroken-bonds",
+  "ilkSayfa": 150
+ },
+ "unified-minds": {
+  "pc": "pokemon-unified-minds",
+  "ilkSayfa": 150
+ },
+ "hidden-fates": {
+  "pc": "pokemon-hidden-fates",
+  "ilkSayfa": 150
+ },
+ "cosmic-eclipse": {
+  "pc": "pokemon-cosmic-eclipse",
+  "ilkSayfa": 150
+ },
+ "rebel-clash": {
+  "pc": "pokemon-rebel-clash",
+  "ilkSayfa": 150
+ },
+ "darkness-ablaze": {
+  "pc": "pokemon-darkness-ablaze",
+  "ilkSayfa": 150
+ },
+ "vivid-voltage": {
+  "pc": "pokemon-vivid-voltage",
+  "ilkSayfa": 150
+ },
+ "shining-fates": {
+  "pc": "pokemon-shining-fates",
+  "ilkSayfa": 150
+ },
+ "battle-styles": {
+  "pc": "pokemon-battle-styles",
+  "ilkSayfa": 150
+ },
+ "chilling-reign": {
+  "pc": "pokemon-chilling-reign",
+  "ilkSayfa": 150
+ },
+ "evolving-skies": {
+  "pc": "pokemon-evolving-skies",
+  "ilkSayfa": 150
+ },
+ "celebrations": {
+  "pc": "pokemon-celebrations",
+  "ilkSayfa": 135
+ },
+ "fusion-strike": {
+  "pc": "pokemon-fusion-strike",
+  "ilkSayfa": 150
+ },
+ "brilliant-stars": {
+  "pc": "pokemon-brilliant-stars",
+  "ilkSayfa": 150
+ },
+ "astral-radiance": {
+  "pc": "pokemon-astral-radiance",
+  "ilkSayfa": 150
+ },
+ "lost-origin": {
+  "pc": "pokemon-lost-origin",
+  "ilkSayfa": 150
+ },
+ "silver-tempest": {
+  "pc": "pokemon-silver-tempest",
+  "ilkSayfa": 150
+ },
+ "crown-zenith": {
+  "pc": "pokemon-crown-zenith",
+  "ilkSayfa": 150
+ },
+ "paldea-evolved": {
+  "pc": "pokemon-paldea-evolved",
+  "ilkSayfa": 150
+ },
+ "obsidian-flames": {
+  "pc": "pokemon-obsidian-flames",
+  "ilkSayfa": 150
+ },
+ "paradox-rift": {
+  "pc": "pokemon-paradox-rift",
+  "ilkSayfa": 150
+ },
+ "paldean-fates": {
+  "pc": "pokemon-paldean-fates",
+  "ilkSayfa": 150
+ },
+ "temporal-forces": {
+  "pc": "pokemon-temporal-forces",
+  "ilkSayfa": 150
+ },
+ "twilight-masquerade": {
+  "pc": "pokemon-twilight-masquerade",
+  "ilkSayfa": 150
+ },
+ "shrouded-fable": {
+  "pc": "pokemon-shrouded-fable",
+  "ilkSayfa": 150
+ },
+ "stellar-crown": {
+  "pc": "pokemon-stellar-crown",
+  "ilkSayfa": 150
+ },
+ "surging-sparks": {
+  "pc": "pokemon-surging-sparks",
+  "ilkSayfa": 150
+ },
+ "prismatic-evolutions": {
+  "pc": "pokemon-prismatic-evolutions",
+  "ilkSayfa": 150
+ },
+ "journey-together": {
+  "pc": "pokemon-journey-together",
+  "ilkSayfa": 150
+ },
+ "destined-rivals": {
+  "pc": "pokemon-destined-rivals",
+  "ilkSayfa": 150
+ },
+ "mega-evolution": {
+  "pc": "pokemon-mega-evolution",
+  "ilkSayfa": 150
+ },
+ "phantasmal-flames": {
+  "pc": "pokemon-phantasmal-flames",
+  "ilkSayfa": 150
+ },
+ "ascended-heroes": {
+  "pc": "pokemon-ascended-heroes",
+  "ilkSayfa": 150
+ },
+ "perfect-order": {
+  "pc": "pokemon-perfect-order",
+  "ilkSayfa": 150
+ },
+ "chaos-rising": {
+  "pc": "pokemon-chaos-rising",
+  "ilkSayfa": 150
+ },
+ "megadreamex-jp": {
+  "pc": "pokemon-japanese-mega-dream-ex",
+  "ilkSayfa": 150
+ },
+ "nihilzero-jp": {
+  "pc": "pokemon-japanese-nihil-zero",
+  "ilkSayfa": 120
+ },
+ "ruby-sapphire": {
+  "pc": "pokemon-ruby-&-sapphire",
+  "ilkSayfa": 150
+ },
+ "team-magma-vs-team-aqua": {
+  "pc": "pokemon-team-magma-&-team-aqua",
+  "ilkSayfa": 150
+ },
+ "diamond-pearl": {
+  "pc": "pokemon-diamond-&-pearl",
+  "ilkSayfa": 150
+ },
+ "heartgold-soulsilver": {
+  "pc": "pokemon-heartgold-&-soulsilver",
+  "ilkSayfa": 150
+ },
+ "hs-unleashed": {
+  "pc": "pokemon-unleashed",
+  "ilkSayfa": 150
+ },
+ "hs-undaunted": {
+  "pc": "pokemon-undaunted",
+  "ilkSayfa": 150
+ },
+ "hs-triumphant": {
+  "pc": "pokemon-triumphant",
+  "ilkSayfa": 150
+ },
+ "black-white": {
+  "pc": "pokemon-black-&-white",
+  "ilkSayfa": 150
+ },
+ "sun-moon": {
+  "pc": "pokemon-sun-&-moon",
+  "ilkSayfa": 150
+ },
+ "sword-shield": {
+  "pc": "pokemon-sword-&-shield",
+  "ilkSayfa": 150
+ },
+ "champions-path": {
+  "pc": "pokemon-champion's-path",
+  "ilkSayfa": 150
+ },
+ "pokemon-go": {
+  "pc": "pokemon-go",
+  "ilkSayfa": 150
+ },
+ "scarlet-violet-base": {
+  "pc": "pokemon-scarlet-&-violet",
+  "ilkSayfa": 150
+ },
+ "151": {
+  "pc": "pokemon-scarlet-&-violet-151",
+  "ilkSayfa": 150
+ },
+ "black-bolt-white-flare": {
+  "pc": [
+   "pokemon-black-bolt",
+   "pokemon-white-flare"
+  ],
+  "ilkSayfa": 300,
+  "multi": true
+ },
+ "firered-leafgreen": {
+  "pc": "pokemon-fire-red-&-leaf-green",
+  "ilkSayfa": 150
+ }
+}

@@ -1,0 +1,75 @@
+name: Gece Guncelleme
+on:
+  schedule:
+    - cron: '0 0 * * *'        # her gece 00:00 UTC = TR 03:00
+  workflow_dispatch:
+
+concurrency:
+  group: kartist-tek           # backfill ile ayni grup: asla cakismasinlar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install pillow
+
+      - name: PriceCharting tam cekim (taze klasore)
+        run: |
+          rm -rf veri/pc_yeni
+          python3 araclar/pc_scrape2.py 5400 veri/pc_yeni
+
+      - name: Eksik seti eskisinden tamamla, klasoru degistir
+        run: |
+          python3 - << 'PY'
+          import os, shutil, json
+          eski, yeni = 'veri/pc_data', 'veri/pc_yeni'
+          m = json.load(open('veri/pc_mapping.json'))
+          eksik = [s for s in m if not os.path.exists(f'{yeni}/{s}.json')]
+          for s in eksik:
+              if os.path.exists(f'{eski}/{s}.json'):
+                  shutil.copy(f'{eski}/{s}.json', f'{yeni}/{s}.json')
+          if eksik: print('cekilemedi, dunku veri kullanildi:', eksik)
+          shutil.rmtree(eski, ignore_errors=True)
+          os.rename(yeni, eski)
+          PY
+
+      - name: Fiyat pipeline (TL donusum + site dosyalari + borsa/psa)
+        run: python3 araclar/pipeline.py
+
+      - name: En Ucuzu Bul tazeleme (basarisizsa eski degerler kalir)
+        run: python3 araclar/eub_refresh.py || echo "EUB adimi atlandi"
+
+      - name: Gunun sosyal gorseli
+        run: python3 araclar/sosyal_gorsel.py || echo "gorsel adimi atlandi"
+
+      - name: Cloudflare deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          cd worker
+          npx wrangler@4 deploy
+
+      - name: Gunluk snapshot commit (zaman serisi birikimi)
+        run: |
+          git config user.name "kartist-bot"
+          git config user.email "bot@kartist.com.tr"
+          git add -A
+          git commit -m "gece guncelleme: $(date -u +%F)" || echo "degisiklik yok"
+          git pull --rebase origin main || true
+          git push
