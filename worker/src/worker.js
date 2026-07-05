@@ -312,6 +312,55 @@ function pokemonPage(pslug){
 </div><!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "cc61c614f4de468580012bd1f4c750c9"}'></script><!-- End Cloudflare Web Analytics --></body></html>`;
 }
 
+
+const ARAC_SAYFALARI = {
+  'fiyatlar': {
+    v: 'Price',
+    t: 'Pokemon Kart Fiyatları — Güncel TL Değerleri | Kartist',
+    d: 'Tüm Pokemon TCG kartlarının güncel Türkiye fiyatları. 17.000+ kart, PriceCharting verisiyle günlük güncellenen TL değerleri. Ücretsiz fiyat arama.'
+  },
+  'en-ucuz': {
+    v: 'Cheapest',
+    t: 'En Ucuz Pokemon Kartları ve Ürünleri | Kartist',
+    d: 'Türkiye\'deki en uygun fiyatlı Pokemon kart ve ürünlerini bul. Mağaza fiyatları karşılaştırmalı, güncel en ucuz fırsatlar tek sayfada.'
+  },
+  'paket-ac': {
+    v: 'Ripper',
+    t: 'Pokemon Paket Açma Simülatörü (Ücretsiz) | Kartist',
+    d: 'Ücretsiz Pokemon paket açma simülatörü. Gerçek kart oranlarıyla sanal paket aç, hangi kartların çıktığını gör. Türkçe, kayıt gerektirmez.'
+  },
+  'paket-analizi': {
+    v: 'PackEV',
+    t: 'Pokemon Paket Değer Analizi — EV Hesabı (₺) | Kartist',
+    d: 'Pokemon paketlerinin beklenen değerini (EV) TL cinsinden hesapla. Hangi paket açmaya değer, paketin ortalama getirisi ne kadar — sayılarla gör.'
+  },
+  'saticilar': {
+    v: 'Vendors',
+    t: 'Güvenilir Pokemon Kart Satıcıları Türkiye | Kartist',
+    d: 'Türkiye\'deki güvenilir Pokemon kart ve ürün satıcılarının listesi. Şehir ve platforma göre filtrelenmiş, topluluk onaylı satıcı rehberi.'
+  },
+  'sahte-rehberi': {
+    v: 'Guide',
+    t: 'Sahte Pokemon Kartı Nasıl Anlaşılır? Rehber | Kartist',
+    d: 'Sahte Pokemon kartını gerçeğinden ayırt etme rehberi. Işık testi, yazı kontrolü, holo deseni ve kenar incelemesiyle sahteyi anla.'
+  },
+  'set-placeholder': {
+    v: 'Placeholder',
+    t: 'Yazdırılabilir Pokemon Set Kart Şablonları | Kartist',
+    d: 'Koleksiyon için yazdırılabilir Pokemon set kart şablonları. Eksik kartlarını takip et, klasörünü düzenle, set placeholder kartlarını indir.'
+  },
+  'borsa': {
+    v: 'Borsa',
+    t: 'Pokemon Kart Borsası — Yükselen/Düşen Kartlar | Kartist',
+    d: 'Fiyatı en çok hareket eden Pokemon kartları. Günün en çok yükselen ve düşen kartları, PriceCharting verisiyle her gece güncellenir.'
+  },
+  'psa-karlilik': {
+    v: 'PSA',
+    t: 'PSA Kârlılık — Derecelendirme Değer mi? | Kartist',
+    d: 'Bir Pokemon kartını PSA\'ya göndermek kârlı mı? Raw fiyat, PSA 10 ve Grade 9 değerlerini karşılaştır, derecelendirmenin mantıklı olup olmadığını gör.'
+  }
+};
+
 export default {
   async fetch(request, env){
     const url = new URL(request.url);
@@ -329,7 +378,26 @@ export default {
       if(page) return new Response(page, {headers:{'content-type':'text/html;charset=UTF-8','cache-control':'public, max-age=3600'}});
       return new Response('Pokemon bulunamadı', {status:404});
     }
-    if(path==='/kart'||path==='/kart/') return Response.redirect(SITE+'/#fiyatlar', 302);
+    if(path==='/kart'||path==='/kart/') return Response.redirect(SITE+'/fiyatlar', 302);
+
+    // Araç sayfaları: gerçek URL → index.html + sayfaya özel SEO
+    var aracSlug = path.replace(/^\//,'').replace(/\/$/,'');
+    if(ARAC_SAYFALARI[aracSlug]){
+      var meta = ARAC_SAYFALARI[aracSlug];
+      var idxReq = new Request(SITE + '/', request);
+      var idxRes = await env.ASSETS.fetch(idxReq);
+      var html = await idxRes.text();
+      var canonUrl = SITE + '/' + aracSlug;
+      html = html
+        .replace(/<title>[^<]*<\/title>/, '<title>' + meta.t + '<\/title>')
+        .replace(/(<meta name="description" content=")[^"]*(")/, '$1' + meta.d + '$2')
+        .replace(/(<link rel="canonical" href=")[^"]*(")/, '$1' + canonUrl + '$2')
+        .replace(/(<meta property="og:url" content=")[^"]*(")/, '$1' + canonUrl + '$2')
+        .replace(/(<meta property="og:title" content=")[^"]*(")/, '$1' + meta.t + '$2')
+        .replace(/(<meta property="twitter:title" content=")[^"]*(")/, '$1' + meta.t + '$2')
+        .replace('</head>', '<script>window.__ARAC_VIEW=' + JSON.stringify(meta.v) + ';</script></head>');
+      return new Response(html, {headers:{'content-type':'text/html;charset=UTF-8','cache-control':'public, max-age=3600'}});
+    }
 
     return env.ASSETS.fetch(request);
   }
