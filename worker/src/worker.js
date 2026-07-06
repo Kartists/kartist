@@ -361,6 +361,10 @@ const ARAC_SAYFALARI = {
   }
 };
 
+// --- CSP (guvenlik) su an TEST modu (Report-Only): sadece tarayici konsoluna raporlar, HICBIR SEYI ENGELLEMEZ.
+// Birkac gun konsol temizse, asagidaki CSP_HEADER'i 'content-security-policy' yaparak gercekten devreye al.
+const CSP = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https: data:; connect-src 'self' https://api.frankfurter.app https://api.pokemontcg.io https://open.er-api.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'";
+const CSP_HEADER = 'content-security-policy-report-only';
 export default {
   async fetch(request, env){
     const url = new URL(request.url);
@@ -369,13 +373,13 @@ export default {
     if(path.startsWith('/kart/')){
       let slug = path.slice(6).replace(/\/$/,'');
       const c = CARDS[slug];
-      if(c) return new Response(cardPage(slug, c), {headers:{'content-type':'text/html;charset=UTF-8','cache-control':'public, max-age=3600'}});
+      if(c) return new Response(cardPage(slug, c), {headers:{'content-type':'text/html;charset=UTF-8','cache-control':'public, max-age=3600',[CSP_HEADER]:CSP}});
       return new Response('Kart bulunamadı', {status:404});
     }
     if(path.startsWith('/pokemon/')){
       let pslug = path.slice(9).replace(/\/$/,'');
       const page = pokemonPage(pslug);
-      if(page) return new Response(page, {headers:{'content-type':'text/html;charset=UTF-8','cache-control':'public, max-age=3600'}});
+      if(page) return new Response(page, {headers:{'content-type':'text/html;charset=UTF-8','cache-control':'public, max-age=3600',[CSP_HEADER]:CSP}});
       return new Response('Pokemon bulunamadı', {status:404});
     }
     if(path==='/kart'||path==='/kart/') return Response.redirect(SITE+'/fiyatlar', 302);
@@ -396,9 +400,9 @@ export default {
         .replace(/(<meta property="og:title" content=")[^"]*(")/, '$1' + meta.t + '$2')
         .replace(/(<meta property="twitter:title" content=")[^"]*(")/, '$1' + meta.t + '$2')
         .replace('</head>', '<script>window.__ARAC_VIEW=' + JSON.stringify(meta.v) + ';</script></head>');
-      return new Response(html, {headers:{'content-type':'text/html;charset=UTF-8','cache-control':'public, max-age=3600'}});
+      return new Response(html, {headers:{'content-type':'text/html;charset=UTF-8','cache-control':'public, max-age=3600',[CSP_HEADER]:CSP}});
     }
 
-    return env.ASSETS.fetch(request);
+    const _r = await env.ASSETS.fetch(request); const _n = new Response(_r.body, _r); _n.headers.set(CSP_HEADER, CSP); return _n;
   }
 };
