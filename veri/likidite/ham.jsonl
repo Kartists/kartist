@@ -5965,3 +5965,1963 @@
 {"slug":"abomasnow-swsh10tg-tg01","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
 {"slug":"flapple-swsh10tg-tg02","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
 {"slug":"kingdra-swsh10tg-tg03","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"frosmoth-swsh10tg-tg04","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"gardevoir-swsh10tg-tg05","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"wyrdeer-swsh10tg-tg06","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"falinks-swsh10tg-tg07","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"kleavor-swsh10tg-tg08","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"mightyena-swsh10tg-tg09","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"galarian-obstagoon-swsh10tg-tg10","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"bronzong-swsh10tg-tg11","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"hoothoot-swsh10tg-tg12","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"starmie-v-swsh10tg-tg13","raw":"1 sale per day","psa10":"1 sale per day","likit":1}
+{"slug":"ice-rider-calyrex-v-swsh10tg-tg14","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"galarian-articuno-v-swsh10tg-tg16","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"shadow-rider-calyrex-v-swsh10tg-tg17","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"galarian-zapdos-v-swsh10tg-tg19","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"galarian-moltres-v-swsh10tg-tg20","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"zacian-v-swsh10tg-tg21","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"zamazenta-v-swsh10tg-tg22","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"garchomp-v-swsh10tg-tg23","raw":"1 sale per day","psa10":"3 sales per week","likit":1}
+{"slug":"ice-rider-calyrex-vmax-swsh10tg-tg15","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"shadow-rider-calyrex-vmax-swsh10tg-tg18","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"allister-swsh10tg-tg24","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"bea-swsh10tg-tg25","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"melony-swsh10tg-tg26","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"milo-swsh10tg-tg27","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"piers-swsh10tg-tg28","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"ice-rider-calyrex-vmax-swsh10tg-tg29","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"shadow-rider-calyrex-vmax-swsh10tg-tg30","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"venonat-silver-tempest-1","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"spinarak-silver-tempest-3","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"sunkern-silver-tempest-5","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"petilil-silver-tempest-9","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"foongus-silver-tempest-11","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"durant-silver-tempest-13","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"vulpix-silver-tempest-17","raw":"1 sale per day","psa10":"rare","likit":0}
+{"slug":"growlithe-silver-tempest-19","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ponyta-silver-tempest-21","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"fennekin-silver-tempest-25","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"litten-silver-tempest-30","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"wailmer-silver-tempest-37","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"feebas-silver-tempest-39","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"snorunt-silver-tempest-41","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"relicanth-silver-tempest-44","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"dewpider-silver-tempest-47","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"pikachu-silver-tempest-49","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"chinchou-silver-tempest-51","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"rotom-silver-tempest-53","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"emolga-silver-tempest-54","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"stunfisk-silver-tempest-55","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"drowzee-silver-tempest-60","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"misdreavus-silver-tempest-63","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"ralts-silver-tempest-67","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"meditite-silver-tempest-72","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"chimecho-silver-tempest-74","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"solosis-silver-tempest-76","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"elgyem-silver-tempest-79","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"espurr-silver-tempest-81","raw":"3 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"swirlix-silver-tempest-83","raw":"1 sale per day","psa10":"rare","likit":0}
+{"slug":"indeedee-silver-tempest-86","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"dreepy-silver-tempest-87","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"phanpy-silver-tempest-91","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"baltoy-silver-tempest-93","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"hawlucha-silver-tempest-98","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"sandygast-silver-tempest-99","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"zubat-silver-tempest-103","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"murkrow-silver-tempest-106","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"croagunk-silver-tempest-109","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"sandile-silver-tempest-111","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"mareanie-silver-tempest-114","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"beldum-silver-tempest-117","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"ferroseed-silver-tempest-121","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"klink-silver-tempest-123","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"togedemaru-silver-tempest-127","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"dratini-silver-tempest-129","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"noibat-silver-tempest-132","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"smeargle-silver-tempest-137","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"spinda-silver-tempest-141","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"swablu-silver-tempest-142","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"buneary-silver-tempest-144","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"rufflet-silver-tempest-148","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"fletchling-silver-tempest-150","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"venomoth-silver-tempest-2","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"sunflora-silver-tempest-6","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"ninetales-silver-tempest-18","raw":"1 sale per day","psa10":"2 sales per year","likit":1}
+{"slug":"braixen-silver-tempest-26","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"fletchinder-silver-tempest-28","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"torracat-silver-tempest-31","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"wailord-silver-tempest-38","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"glalie-silver-tempest-42","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"araquanid-silver-tempest-48","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"raichu-silver-tempest-50","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"lanturn-silver-tempest-52","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"hypno-silver-tempest-61","raw":"1 sale per day","psa10":"rare","likit":0}
+{"slug":"jynx-silver-tempest-62","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"kirlia-silver-tempest-68","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"sigilyph-silver-tempest-75","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"duosion-silver-tempest-77","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"beheeyem-silver-tempest-80","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"meowstic-silver-tempest-82","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"slurpuff-silver-tempest-84","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"dedenne-silver-tempest-85","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"drakloak-silver-tempest-88","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"donphan-silver-tempest-92","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"claydol-silver-tempest-94","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"anorith-silver-tempest-95","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"palossand-silver-tempest-100","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"stonjourner-silver-tempest-101","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"golbat-silver-tempest-104","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"honchkrow-silver-tempest-107","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"toxicroak-silver-tempest-110","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"krokorok-silver-tempest-112","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"toxapex-silver-tempest-115","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"morpeko-silver-tempest-116","raw":"1 sale per day","psa10":"rare","likit":0}
+{"slug":"metang-silver-tempest-118","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"ferrothorn-silver-tempest-122","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"klang-silver-tempest-124","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"dragonair-silver-tempest-130","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"altaria-silver-tempest-143","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"lopunny-silver-tempest-145","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"archen-silver-tempest-146","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"brandon-silver-tempest-151","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"candice-silver-tempest-152","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"capturing-aroma-silver-tempest-153","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"emergency-jelly-silver-tempest-155","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"furisode-girl-silver-tempest-157","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"gym-trainer-silver-tempest-158","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"lance-silver-tempest-159","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"leafy-camo-poncho-silver-tempest-160","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"primordial-altar-silver-tempest-161","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"professor-laventon-silver-tempest-162","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"quad-stone-silver-tempest-163","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"serena-silver-tempest-164","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"unidentified-fossil-silver-tempest-165","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"wallace-silver-tempest-166","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"worker-silver-tempest-167","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"regenerative-energy-silver-tempest-168","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"v-guard-energy-silver-tempest-169","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"ariados-silver-tempest-4","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"rapidash-silver-tempest-22","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"articuno-silver-tempest-36","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"medicham-silver-tempest-73","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"reuniclus-silver-tempest-78","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"dragapult-silver-tempest-89","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"terrakion-silver-tempest-97","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"crobat-silver-tempest-105","raw":"1 sale per day","psa10":"2 sales per year","likit":1}
+{"slug":"krookodile-silver-tempest-113","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"metagross-silver-tempest-119","raw":"1 sale per day","psa10":"3 sales per year","likit":1}
+{"slug":"dragonite-silver-tempest-131","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"archeops-silver-tempest-147","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"earthen-seal-stone-silver-tempest-154","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"forest-seal-stone-silver-tempest-156","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"serperior-v-silver-tempest-7","raw":"1 sale per day","psa10":"5 sales per year","likit":1}
+{"slug":"chesnaught-v-silver-tempest-15","raw":"1 sale per day","psa10":"5 sales per year","likit":1}
+{"slug":"reshiram-v-silver-tempest-24","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"alolan-vulpix-v-silver-tempest-33","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"omastar-v-silver-tempest-35","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"regieleki-v-silver-tempest-57","raw":"1 sale per day","psa10":"5 sales per year","likit":1}
+{"slug":"unown-v-silver-tempest-65","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"mawile-v-silver-tempest-70","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"hisuian-arcanine-v-silver-tempest-90","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"ursaluna-v-silver-tempest-102","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"skuntank-v-silver-tempest-108","raw":"1 sale per day","psa10":"3 sales per year","likit":1}
+{"slug":"magearna-v-silver-tempest-128","raw":"1 sale per day","psa10":"3 sales per year","likit":1}
+{"slug":"regidrago-v-silver-tempest-135","raw":"1 sale per day","psa10":"5 sales per year","likit":1}
+{"slug":"lugia-v-silver-tempest-138","raw":"1 sale per day","psa10":"2 sales per day","likit":1}
+{"slug":"ho-oh-v-silver-tempest-140","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"serperior-vstar-silver-tempest-8","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"alolan-vulpix-vstar-silver-tempest-34","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"unown-vstar-silver-tempest-66","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"mawile-vstar-silver-tempest-71","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"regidrago-vstar-silver-tempest-136","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"lugia-vstar-silver-tempest-139","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"hisuian-lilligant-silver-tempest-10","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"amoonguss-silver-tempest-12","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"virizion-silver-tempest-14","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"arcanine-silver-tempest-20","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"victini-silver-tempest-23","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"delphox-silver-tempest-27","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"talonflame-silver-tempest-29","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"incineroar-silver-tempest-32","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"milotic-silver-tempest-40","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"froslass-silver-tempest-43","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"phione-silver-tempest-45","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"keldeo-silver-tempest-46","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"zeraora-silver-tempest-56","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"mismagius-silver-tempest-64","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"gardevoir-silver-tempest-69","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"armaldo-silver-tempest-96","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"klinklang-silver-tempest-125","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"cobalion-silver-tempest-126","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"noivern-silver-tempest-133","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"zygarde-silver-tempest-134","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"hisuian-braviary-silver-tempest-149","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"radiant-tsareena-silver-tempest-16","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"radiant-alakazam-silver-tempest-59","raw":"1 sale per day","psa10":"3 sales per week","likit":1}
+{"slug":"radiant-jirachi-silver-tempest-120","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"regieleki-vmax-silver-tempest-58","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"serperior-v-silver-tempest-170","raw":"1 sale per day","psa10":"5 sales per year","likit":1}
+{"slug":"chesnaught-v-silver-tempest-171","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"reshiram-v-silver-tempest-172","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"alolan-vulpix-v-silver-tempest-173","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"omastar-v-silver-tempest-174","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"regieleki-v-silver-tempest-175","raw":"1 sale per day","psa10":"5 sales per year","likit":1}
+{"slug":"unown-v-silver-tempest-176","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"unown-v-silver-tempest-177","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"mawile-v-silver-tempest-178","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"hisuian-arcanine-v-silver-tempest-179","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"skuntank-v-silver-tempest-180","raw":"1 sale per day","psa10":"3 sales per year","likit":1}
+{"slug":"skuntank-v-silver-tempest-181","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"magearna-v-silver-tempest-182","raw":"1 sale per day","psa10":"3 sales per year","likit":1}
+{"slug":"regidrago-v-silver-tempest-183","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"regidrago-v-silver-tempest-184","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"lugia-v-silver-tempest-185","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"lugia-v-silver-tempest-186","raw":"1 sale per day","psa10":"2 sales per day","likit":1}
+{"slug":"ho-oh-v-silver-tempest-187","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"brandon-silver-tempest-188","raw":"1 sale per day","psa10":"3 sales per year","likit":1}
+{"slug":"candice-silver-tempest-189","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"furisode-girl-silver-tempest-190","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"gym-trainer-silver-tempest-191","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"lance-silver-tempest-192","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"serena-silver-tempest-193","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"wallace-silver-tempest-194","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"worker-silver-tempest-195","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"serperior-vstar-silver-tempest-196","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"alolan-vulpix-vstar-silver-tempest-197","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"regieleki-vmax-silver-tempest-198","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"unown-vstar-silver-tempest-199","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"mawile-vstar-silver-tempest-200","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"regidrago-vstar-silver-tempest-201","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"lugia-vstar-silver-tempest-202","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"brandon-silver-tempest-203","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"candice-silver-tempest-204","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"furisode-girl-silver-tempest-205","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"lance-silver-tempest-206","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"serena-silver-tempest-207","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"wallace-silver-tempest-208","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"worker-silver-tempest-209","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"serperior-vstar-silver-tempest-210","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"lugia-vstar-silver-tempest-211","raw":"1 sale per day","psa10":"3 sales per week","likit":1}
+{"slug":"energy-switch-silver-tempest-212","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"gapejaw-bog-silver-tempest-213","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"leafy-camo-poncho-silver-tempest-214","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"v-guard-energy-silver-tempest-215","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"braixen-swsh12tg-tg01","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"milotic-swsh12tg-tg02","raw":"1 sale per day","psa10":"3 sales per week","likit":1}
+{"slug":"flaaffy-swsh12tg-tg03","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"jynx-swsh12tg-tg04","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"gardevoir-swsh12tg-tg05","raw":"1 sale per day","psa10":"3 sales per week","likit":1}
+{"slug":"malamar-swsh12tg-tg06","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"rockruff-swsh12tg-tg07","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"passimian-swsh12tg-tg08","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"druddigon-swsh12tg-tg09","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"smeargle-swsh12tg-tg10","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"altaria-swsh12tg-tg11","raw":"1 sale per day","psa10":"3 sales per week","likit":1}
+{"slug":"kricketune-v-swsh12tg-tg12","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"serperior-v-swsh12tg-tg13","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"blaziken-v-swsh12tg-tg14","raw":"1 sale per day","psa10":"3 sales per week","likit":1}
+{"slug":"zeraora-v-swsh12tg-tg16","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"mawile-v-swsh12tg-tg17","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"corviknight-v-swsh12tg-tg18","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"blissey-v-swsh12tg-tg22","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"blaziken-vmax-swsh12tg-tg15","raw":"1 sale per day","psa10":"3 sales per week","likit":1}
+{"slug":"corviknight-vmax-swsh12tg-tg19","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"rayquaza-vmax-swsh12tg-tg20","raw":"1 sale per day","psa10":"1 sale per day","likit":1}
+{"slug":"duraludon-vmax-swsh12tg-tg21","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"friends-in-galar-swsh12tg-tg23","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"gordie-swsh12tg-tg24","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"judge-swsh12tg-tg25","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"professor-burnet-swsh12tg-tg26","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"raihan-swsh12tg-tg27","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"sordward-and-shielbert-swsh12tg-tg28","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"rayquaza-vmax-swsh12tg-tg29","raw":"1 sale per day","psa10":"1 sale per day","likit":1}
+{"slug":"duraludon-vmax-swsh12tg-tg30","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"bulbasaur-pokemon-go-1","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"spinarak-pokemon-go-6","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"charmander-pokemon-go-8","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"numel-pokemon-go-13","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"squirtle-pokemon-go-15","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"slowpoke-pokemon-go-19","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"magikarp-pokemon-go-21","raw":"1 sale per day","psa10":"2 sales per year","likit":1}
+{"slug":"wimpod-pokemon-go-25","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"pikachu-pokemon-go-27","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"natu-pokemon-go-32","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"onix-pokemon-go-36","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"larvitar-pokemon-go-37","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"alolan-rattata-pokemon-go-41","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"alolan-raticate-pokemon-go-42","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"meltan-pokemon-go-45","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"eevee-pokemon-go-54","raw":"1 sale per day","psa10":"3 sales per year","likit":1}
+{"slug":"aipom-pokemon-go-56","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"ambipom-pokemon-go-57","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"bidoof-pokemon-go-59","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"bibarel-pokemon-go-60","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"pidove-pokemon-go-61","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"tranquill-pokemon-go-62","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"ivysaur-pokemon-go-2","raw":"1 sale per day","psa10":"2 sales per year","likit":1}
+{"slug":"ariados-pokemon-go-7","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"charmeleon-pokemon-go-9","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"camerupt-pokemon-go-14","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"wartortle-pokemon-go-16","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"slowbro-pokemon-go-20","raw":"1 sale per day","psa10":"5 sales per year","likit":1}
+{"slug":"xatu-pokemon-go-33","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"lunatone-pokemon-go-34","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"pupitar-pokemon-go-38","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"solrock-pokemon-go-39","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"steelix-pokemon-go-44","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"chansey-pokemon-go-51","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"unfezant-pokemon-go-63","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"blanche-pokemon-go-64","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"candela-pokemon-go-65","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"egg-incubator-pokemon-go-66","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"lure-module-pokemon-go-67","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"pok-stop-pokemon-go-68","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"rare-candy-pokemon-go-69","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"spark-pokemon-go-70","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"venusaur-pokemon-go-3","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"charizard-pokemon-go-10","raw":"1 sale per day","psa10":"3 sales per week","likit":1}
+{"slug":"moltres-pokemon-go-12","raw":"1 sale per day","psa10":"3 sales per year","likit":1}
+{"slug":"blastoise-pokemon-go-17","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"gyarados-pokemon-go-22","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"lapras-pokemon-go-23","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"articuno-pokemon-go-24","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"golisopod-pokemon-go-26","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"pikachu-pokemon-go-28","raw":"1 sale per day","psa10":"1 sale per day","likit":1}
+{"slug":"zapdos-pokemon-go-29","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"sylveon-pokemon-go-35","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"tyranitar-pokemon-go-43","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"melmetal-pokemon-go-46","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"blissey-pokemon-go-52","raw":"1 sale per day","psa10":"2 sales per year","likit":1}
+{"slug":"ditto-pokemon-go-53","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"snorlax-pokemon-go-55","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"radiant-venusaur-pokemon-go-4","raw":"1 sale per day","psa10":"3 sales per week","likit":1}
+{"slug":"radiant-charizard-pokemon-go-11","raw":"1 sale per day","psa10":"1 sale per day","likit":1}
+{"slug":"radiant-blastoise-pokemon-go-18","raw":"1 sale per day","psa10":"1 sale per day","likit":1}
+{"slug":"alolan-exeggutor-v-pokemon-go-5","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"mewtwo-v-pokemon-go-30","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"conkeldurr-v-pokemon-go-40","raw":"1 sale per day","psa10":"5 sales per year","likit":1}
+{"slug":"melmetal-v-pokemon-go-47","raw":"1 sale per day","psa10":"6 sales per year","likit":1}
+{"slug":"dragonite-v-pokemon-go-49","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"slaking-v-pokemon-go-58","raw":"1 sale per day","psa10":"5 sales per year","likit":1}
+{"slug":"mewtwo-vstar-pokemon-go-31","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"dragonite-vstar-pokemon-go-50","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"melmetal-vmax-pokemon-go-48","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"alolan-exeggutor-v-pokemon-go-71","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"mewtwo-v-pokemon-go-72","raw":"1 sale per day","psa10":"1 sale per day","likit":1}
+{"slug":"conkeldurr-v-pokemon-go-73","raw":"1 sale per day","psa10":"4 sales per year","likit":1}
+{"slug":"conkeldurr-v-pokemon-go-74","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"melmetal-v-pokemon-go-75","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"dragonite-v-pokemon-go-76","raw":"1 sale per day","psa10":"1 sale per week","likit":1}
+{"slug":"slaking-v-pokemon-go-77","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"professors-research-pokemon-go-78","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"mewtwo-vstar-pokemon-go-79","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"melmetal-vmax-pokemon-go-80","raw":"1 sale per day","psa10":"5 sales per year","likit":1}
+{"slug":"dragonite-vstar-pokemon-go-81","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"blanche-pokemon-go-82","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"candela-pokemon-go-83","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"professors-research-pokemon-go-84","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"spark-pokemon-go-85","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"mewtwo-vstar-pokemon-go-86","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"egg-incubator-pokemon-go-87","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"lure-module-pokemon-go-88","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"blaziken-great-encounters-1","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"cresselia-great-encounters-2","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"darkrai-great-encounters-3","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"darkrai-great-encounters-4","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"pachirisu-great-encounters-5","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"porygon-z-great-encounters-6","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"rotom-great-encounters-7","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"sceptile-great-encounters-8","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"swampert-great-encounters-9","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"tangrowth-great-encounters-10","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"togekiss-great-encounters-11","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"cresselia-lv-x-great-encounters-103","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"darkrai-lv-x-great-encounters-104","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"dialga-lv-x-great-encounters-105","raw":"6 sales per year","psa10":"2 sales per year","likit":1}
+{"slug":"palkia-lv-x-great-encounters-106","raw":"1 sale per month","psa10":"3 sales per year","likit":1}
+{"slug":"altaria-great-encounters-12","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"beedrill-great-encounters-13","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"butterfree-great-encounters-14","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"claydol-great-encounters-15","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"dialga-great-encounters-16","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"exploud-great-encounters-17","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"houndoom-great-encounters-18","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"hypno-great-encounters-19","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"kingler-great-encounters-20","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"lapras-great-encounters-21","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"latias-great-encounters-22","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"latios-great-encounters-23","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"mawile-great-encounters-24","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"milotic-great-encounters-25","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"palkia-great-encounters-26","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"primeape-great-encounters-27","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"slowking-great-encounters-28","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"unown-h-great-encounters-29","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"wailord-great-encounters-30","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"weezing-great-encounters-31","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"wigglytuff-great-encounters-32","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"arbok-great-encounters-33","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"cacturne-great-encounters-34","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"combusken-great-encounters-35","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"delibird-great-encounters-36","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"floatzel-great-encounters-37","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"gorebyss-great-encounters-38","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"granbull-great-encounters-39","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"hariyama-great-encounters-41","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"huntail-great-encounters-42","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"linoone-great-encounters-43","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"loudred-great-encounters-44","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"magcargo-great-encounters-45","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"marshtomp-great-encounters-46","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"metapod-great-encounters-47","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"pelipper-great-encounters-48","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"porygon2-great-encounters-49","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"purugly-great-encounters-50","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"relicanth-great-encounters-51","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"seviper-great-encounters-52","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"skarmory-great-encounters-53","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"slowbro-great-encounters-54","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"togetic-great-encounters-55","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"unown-f-great-encounters-56","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"unown-g-great-encounters-57","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"wailmer-great-encounters-58","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"zangoose-great-encounters-59","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"amulet-coin-great-encounters-97","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"felicitys-drawing-great-encounters-98","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"leftovers-great-encounters-99","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"moonlight-stadium-great-encounters-100","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"premier-ball-great-encounters-101","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"rare-candy-great-encounters-102","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"grovyle-great-encounters-40","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"baltoy-great-encounters-60","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"buizel-great-encounters-61","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"cacnea-great-encounters-62","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"caterpie-great-encounters-63","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"clamperl-great-encounters-64","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"drowzee-great-encounters-65","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"ekans-great-encounters-66","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"feebas-great-encounters-67","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"glameow-great-encounters-68","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"houndour-great-encounters-69","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"igglybuff-great-encounters-70","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"illumise-great-encounters-71","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"jigglypuff-great-encounters-72","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"kakuna-great-encounters-73","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"koffing-great-encounters-74","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"krabby-great-encounters-75","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"lunatone-great-encounters-76","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"luvdisc-great-encounters-77","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"makuhita-great-encounters-78","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"mankey-great-encounters-79","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"mudkip-great-encounters-80","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"porygon-great-encounters-81","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"slowpoke-great-encounters-82","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"slugma-great-encounters-83","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"snubbull-great-encounters-84","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"solrock-great-encounters-85","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"swablu-great-encounters-86","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"tangela-great-encounters-87","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"togepi-great-encounters-88","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"torchic-great-encounters-89","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"treecko-great-encounters-90","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"unown-l-great-encounters-91","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"volbeat-great-encounters-92","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"weedle-great-encounters-93","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"whismur-great-encounters-94","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"wingull-great-encounters-95","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"zigzagoon-great-encounters-96","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"articuno-majestic-dawn-1","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"cresselia-majestic-dawn-2","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"darkrai-majestic-dawn-3","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"dialga-majestic-dawn-4","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"glaceon-majestic-dawn-5","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"kabutops-majestic-dawn-6","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"leafeon-majestic-dawn-7","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"manaphy-majestic-dawn-8","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"mewtwo-majestic-dawn-9","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"moltres-majestic-dawn-10","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"palkia-majestic-dawn-11","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"phione-majestic-dawn-12","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"rotom-majestic-dawn-13","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"zapdos-majestic-dawn-14","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"garchomp-lv-x-majestic-dawn-97","raw":"2 sales per month","psa10":"5 sales per year","likit":1}
+{"slug":"glaceon-lv-x-majestic-dawn-98","raw":"1 sale per week","psa10":"6 sales per year","likit":1}
+{"slug":"leafeon-lv-x-majestic-dawn-99","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"porygon-z-lv-x-majestic-dawn-100","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"aerodactyl-majestic-dawn-15","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"bronzong-majestic-dawn-16","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"empoleon-majestic-dawn-17","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"espeon-majestic-dawn-18","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"flareon-majestic-dawn-19","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"glaceon-majestic-dawn-20","raw":"1 sale per week","psa10":"6 sales per year","likit":1}
+{"slug":"hippowdon-majestic-dawn-21","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"infernape-majestic-dawn-22","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"jolteon-majestic-dawn-23","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"leafeon-majestic-dawn-24","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"minun-majestic-dawn-25","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"omastar-majestic-dawn-26","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"phione-majestic-dawn-27","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"plusle-majestic-dawn-28","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"scizor-majestic-dawn-29","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"torterra-majestic-dawn-30","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"toxicroak-majestic-dawn-31","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"umbreon-majestic-dawn-32","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"unown-p-majestic-dawn-33","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"vaporeon-majestic-dawn-34","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"ambipom-majestic-dawn-35","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"fearow-majestic-dawn-36","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"grotle-majestic-dawn-37","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"kangaskhan-majestic-dawn-38","raw":"2 sales per month","psa10":"2 sales per year","likit":1}
+{"slug":"lickitung-majestic-dawn-39","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"manectric-majestic-dawn-40","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"monferno-majestic-dawn-41","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"mothim-majestic-dawn-42","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"pachirisu-majestic-dawn-43","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"prinplup-majestic-dawn-44","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"raichu-majestic-dawn-45","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"scyther-majestic-dawn-46","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"staravia-majestic-dawn-47","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"sudowoodo-majestic-dawn-48","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"unown-q-majestic-dawn-49","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"dawn-stadium-majestic-dawn-79","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"dusk-ball-majestic-dawn-80","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"energy-restore-majestic-dawn-81","raw":"5 sales per year","psa10":"rare","likit":0}
+{"slug":"fossil-excavator-majestic-dawn-82","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"moms-kindness-majestic-dawn-83","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"old-amber-majestic-dawn-84","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"pok-ball-majestic-dawn-85","raw":"5 sales per year","psa10":"rare","likit":0}
+{"slug":"quick-ball-majestic-dawn-86","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"super-scoop-up-majestic-dawn-87","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"warp-point-majestic-dawn-88","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"call-energy-majestic-dawn-92","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"darkness-energy-majestic-dawn-93","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"health-energy-majestic-dawn-94","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"metal-energy-majestic-dawn-95","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"recover-energy-majestic-dawn-96","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"aipom-majestic-dawn-50","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"aipom-majestic-dawn-51","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"bronzor-majestic-dawn-52","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"buneary-majestic-dawn-53","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"burmy-sandy-cloak-majestic-dawn-54","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"chatot-majestic-dawn-55","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"chimchar-majestic-dawn-56","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"chimchar-majestic-dawn-57","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"chingling-majestic-dawn-58","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"combee-majestic-dawn-59","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"croagunk-majestic-dawn-60","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"drifloon-majestic-dawn-61","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"eevee-majestic-dawn-62","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"eevee-majestic-dawn-63","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"electrike-majestic-dawn-64","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"glameow-majestic-dawn-65","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"hippopotas-majestic-dawn-66","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"kabuto-majestic-dawn-67","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"munchlax-majestic-dawn-68","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"omanyte-majestic-dawn-69","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"pikachu-majestic-dawn-70","raw":"3 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"piplup-majestic-dawn-71","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"piplup-majestic-dawn-72","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"shellos-east-sea-majestic-dawn-73","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"spearow-majestic-dawn-74","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"starly-majestic-dawn-75","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"stunky-majestic-dawn-76","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"turtwig-majestic-dawn-77","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"turtwig-majestic-dawn-78","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"dome-fossil-majestic-dawn-89","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"energy-search-majestic-dawn-90","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"helix-fossil-majestic-dawn-91","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"deoxys-normal-forme-legends-awakened-1","raw":"1 sale per week","psa10":"6 sales per year","likit":1}
+{"slug":"dragonite-legends-awakened-2","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"froslass-legends-awakened-3","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"giratina-legends-awakened-4","raw":"1 sale per week","psa10":"6 sales per year","likit":1}
+{"slug":"gliscor-legends-awakened-5","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"heatran-legends-awakened-6","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"kingdra-legends-awakened-7","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"luxray-legends-awakened-8","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"mamoswine-legends-awakened-9","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"metagross-legends-awakened-10","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"mewtwo-legends-awakened-11","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"politoed-legends-awakened-12","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"probopass-legends-awakened-13","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"rayquaza-legends-awakened-14","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"regigigas-legends-awakened-15","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"spiritomb-legends-awakened-16","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"yanmega-legends-awakened-17","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"azelf-lv-x-legends-awakened-140","raw":"1 sale per month","psa10":"3 sales per year","likit":1}
+{"slug":"gliscor-lv-x-legends-awakened-141","raw":"1 sale per month","psa10":"3 sales per year","likit":1}
+{"slug":"magnezone-lv-x-legends-awakened-142","raw":"1 sale per month","psa10":"2 sales per year","likit":1}
+{"slug":"mesprit-lv-x-legends-awakened-143","raw":"1 sale per month","psa10":"2 sales per year","likit":1}
+{"slug":"mewtwo-lv-x-legends-awakened-144","raw":"1 sale per month","psa10":"3 sales per year","likit":1}
+{"slug":"rhyperior-lv-x-legends-awakened-145","raw":"6 sales per year","psa10":"4 sales per year","likit":1}
+{"slug":"uxie-lv-x-legends-awakened-146","raw":"1 sale per month","psa10":"2 sales per year","likit":1}
+{"slug":"armaldo-legends-awakened-18","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"azelf-legends-awakened-19","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"bellossom-legends-awakened-20","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"cradily-legends-awakened-21","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"crawdaunt-legends-awakened-22","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"delcatty-legends-awakened-23","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"deoxys-attack-forme-legends-awakened-24","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"deoxys-defense-forme-legends-awakened-25","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"deoxys-speed-forme-legends-awakened-26","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"ditto-legends-awakened-27","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"forretress-legends-awakened-28","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"groudon-legends-awakened-29","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"heatran-legends-awakened-30","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"jirachi-legends-awakened-31","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"kyogre-legends-awakened-32","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"lopunny-legends-awakened-33","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"mesprit-legends-awakened-34","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"poliwrath-legends-awakened-35","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"regice-legends-awakened-36","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"regigigas-legends-awakened-37","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"regirock-legends-awakened-38","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"registeel-legends-awakened-39","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"shedinja-legends-awakened-40","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"torkoal-legends-awakened-41","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"unown-legends-awakened-42","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"uxie-legends-awakened-43","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"victreebel-legends-awakened-44","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"vileplume-legends-awakened-45","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"anorith-legends-awakened-46","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"camerupt-legends-awakened-47","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"castform-legends-awakened-48","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"castform-rain-form-legends-awakened-49","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"castform-snow-cloud-form-legends-awakened-50","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"castform-sunny-form-legends-awakened-51","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"dragonair-legends-awakened-52","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"drifblim-legends-awakened-53","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"exeggutor-legends-awakened-54","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"gliscor-legends-awakened-55","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"grumpig-legends-awakened-56","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"houndoom-legends-awakened-57","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lanturn-legends-awakened-58","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"lanturn-legends-awakened-59","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"ledian-legends-awakened-60","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"lucario-legends-awakened-61","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"luxio-legends-awakened-62","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"marowak-legends-awakened-63","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"metang-legends-awakened-64","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"metang-legends-awakened-65","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"mightyena-legends-awakened-66","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ninjask-legends-awakened-67","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"persian-legends-awakened-68","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"piloswine-legends-awakened-69","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"seadra-legends-awakened-70","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"starmie-legends-awakened-71","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"swalot-legends-awakened-72","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"swellow-legends-awakened-73","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"tauros-legends-awakened-74","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"tentacruel-legends-awakened-75","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"unown-j-legends-awakened-76","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"unown-r-legends-awakened-77","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"unown-u-legends-awakened-78","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"unown-v-legends-awakened-79","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"unown-w-legends-awakened-80","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"unown-y-legends-awakened-81","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"unown-legends-awakened-82","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"bubble-coat-legends-awakened-129","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"bucks-training-legends-awakened-130","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"cynthias-feelings-legends-awakened-131","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"energy-pickup-legends-awakened-132","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"pok-radar-legends-awakened-133","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"snowpoint-temple-legends-awakened-134","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"stark-mountain-legends-awakened-135","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"technical-machine-ts-1-legends-awakened-136","raw":"5 sales per year","psa10":"rare","likit":0}
+{"slug":"technical-machine-ts-2-legends-awakened-137","raw":"4 sales per year","psa10":"rare","likit":0}
+{"slug":"beldum-legends-awakened-83","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"beldum-legends-awakened-84","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"bellsprout-legends-awakened-85","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"buneary-legends-awakened-86","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"chinchou-legends-awakened-87","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"chinchou-legends-awakened-88","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"corphish-legends-awakened-89","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"cubone-legends-awakened-90","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"dratini-legends-awakened-91","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"drifloon-legends-awakened-92","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"exeggcute-legends-awakened-93","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"gligar-legends-awakened-94","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"gligar-legends-awakened-95","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"gloom-legends-awakened-96","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"gloom-legends-awakened-97","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"gulpin-legends-awakened-98","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"hitmonchan-legends-awakened-99","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"hitmonlee-legends-awakened-100","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"hitmontop-legends-awakened-101","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"horsea-legends-awakened-102","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"houndour-legends-awakened-103","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ledyba-legends-awakened-104","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"lileep-legends-awakened-105","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"meowth-legends-awakened-106","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"misdreavus-legends-awakened-107","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"nincada-legends-awakened-108","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"nosepass-legends-awakened-109","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"numel-legends-awakened-110","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"oddish-legends-awakened-111","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"oddish-legends-awakened-112","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"pineco-legends-awakened-113","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"poliwag-legends-awakened-114","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"poliwhirl-legends-awakened-115","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"poochyena-legends-awakened-116","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"riolu-legends-awakened-117","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"shinx-legends-awakened-118","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"skitty-legends-awakened-119","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"sneasel-legends-awakened-120","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"spoink-legends-awakened-121","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"staryu-legends-awakened-122","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"swinub-legends-awakened-123","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"taillow-legends-awakened-124","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"tentacool-legends-awakened-125","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"tyrogue-legends-awakened-126","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"weepinbell-legends-awakened-127","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"yanma-legends-awakened-128","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"claw-fossil-legends-awakened-138","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"root-fossil-legends-awakened-139","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"dusknoir-stormfront-1","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"empoleon-stormfront-2","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"infernape-stormfront-3","raw":"2 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"lumineon-stormfront-4","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"magnezone-stormfront-5","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"magnezone-stormfront-6","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"mismagius-stormfront-7","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"raichu-stormfront-8","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"regigigas-stormfront-9","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"sceptile-stormfront-10","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"torterra-stormfront-11","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"dusknoir-lv-x-stormfront-96","raw":"2 sales per month","psa10":"2 sales per year","likit":1}
+{"slug":"heatran-lv-x-stormfront-97","raw":"1 sale per month","psa10":"3 sales per year","likit":1}
+{"slug":"machamp-lv-x-stormfront-98","raw":"1 sale per month","psa10":"4 sales per year","likit":1}
+{"slug":"raichu-lv-x-stormfront-99","raw":"1 sale per month","psa10":"3 sales per year","likit":1}
+{"slug":"regigigas-lv-x-stormfront-100","raw":"6 sales per year","psa10":"2 sales per year","likit":1}
+{"slug":"abomasnow-stormfront-12","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"bronzong-stormfront-13","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"cherrim-stormfront-14","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"drapion-stormfront-15","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"drifblim-stormfront-16","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"dusknoir-stormfront-17","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"gengar-stormfront-18","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"gyarados-stormfront-19","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"machamp-stormfront-20","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"mamoswine-stormfront-21","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"rapidash-stormfront-22","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"roserade-stormfront-23","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"salamence-stormfront-24","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"scizor-stormfront-25","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"skuntank-stormfront-26","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"staraptor-stormfront-27","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"steelix-stormfront-28","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"tangrowth-stormfront-29","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"tyranitar-stormfront-30","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"vespiquen-stormfront-31","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"drifloon-stormfront-sh1","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"duskull-stormfront-sh2","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"voltorb-stormfront-sh3","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"bibarel-stormfront-32","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"budew-stormfront-33","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"dusclops-stormfront-34","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"dusclops-stormfront-35","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"electrode-stormfront-36","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"electrode-stormfront-37","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"farfetchd-stormfront-38","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"grovyle-stormfront-39","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"haunter-stormfront-40","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"machoke-stormfront-41","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"magneton-stormfront-42","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"magneton-stormfront-43","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"miltank-stormfront-44","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"pichu-stormfront-45","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"piloswine-stormfront-46","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"pupitar-stormfront-47","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"sableye-stormfront-48","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"scyther-stormfront-49","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"shelgon-stormfront-50","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"skarmory-stormfront-51","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"staravia-stormfront-52","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"conductive-quarry-stormfront-82","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"energy-link-stormfront-83","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"energy-switch-stormfront-84","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"great-ball-stormfront-85","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"luxury-ball-stormfront-86","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"marleys-request-stormfront-87","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"pok-blower-stormfront-88","raw":"1 sale per month","psa10":"3 sales per year","likit":1}
+{"slug":"pok-drawer-stormfront-89","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"pok-healer-stormfront-90","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"premier-ball-stormfront-91","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"cyclone-energy-stormfront-94","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"warp-energy-stormfront-95","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"bagon-stormfront-53","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"bidoof-stormfront-54","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"bronzor-stormfront-55","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"cherubi-stormfront-56","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"combee-stormfront-57","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"drifloon-stormfront-58","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"duskull-stormfront-59","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"duskull-stormfront-60","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"finneon-stormfront-61","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"gastly-stormfront-62","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"larvitar-stormfront-63","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"machop-stormfront-64","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"magikarp-stormfront-65","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"magnemite-stormfront-66","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"magnemite-stormfront-67","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"misdreavus-stormfront-68","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"onix-stormfront-69","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"pikachu-stormfront-70","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"ponyta-stormfront-71","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"roselia-stormfront-72","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"skorupi-stormfront-73","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"snover-stormfront-74","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"starly-stormfront-75","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"stunky-stormfront-76","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"swinub-stormfront-77","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"tangela-stormfront-78","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"treecko-stormfront-79","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"voltorb-stormfront-80","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"voltorb-stormfront-81","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"potion-stormfront-92","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"switch-stormfront-93","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"charmander-stormfront-101","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"charmeleon-stormfront-102","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"charizard-stormfront-103","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"aggron-ruby-sapphire-1","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"beautifly-ruby-sapphire-2","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"blaziken-ruby-sapphire-3","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"camerupt-ruby-sapphire-4","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"delcatty-ruby-sapphire-5","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"dustox-ruby-sapphire-6","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"gardevoir-ruby-sapphire-7","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"hariyama-ruby-sapphire-8","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"manectric-ruby-sapphire-9","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"mightyena-ruby-sapphire-10","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"sceptile-ruby-sapphire-11","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"slaking-ruby-sapphire-12","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"swampert-ruby-sapphire-13","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"wailord-ruby-sapphire-14","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"chansey-ex-ruby-sapphire-96","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"electabuzz-ex-ruby-sapphire-97","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"hitmonchan-ex-ruby-sapphire-98","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"lapras-ex-ruby-sapphire-99","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"magmar-ex-ruby-sapphire-100","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"mewtwo-ex-ruby-sapphire-101","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"scyther-ex-ruby-sapphire-102","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"sneasel-ex-ruby-sapphire-103","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"blaziken-ruby-sapphire-15","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"breloom-ruby-sapphire-16","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"donphan-ruby-sapphire-17","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"nosepass-ruby-sapphire-18","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"pelipper-ruby-sapphire-19","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"sceptile-ruby-sapphire-20","raw":"3 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"seaking-ruby-sapphire-21","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"sharpedo-ruby-sapphire-22","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"swampert-ruby-sapphire-23","raw":"2 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"weezing-ruby-sapphire-24","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"darkness-energy-ruby-sapphire-93","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"metal-energy-ruby-sapphire-94","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"rainbow-energy-ruby-sapphire-95","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"aron-ruby-sapphire-25","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"cascoon-ruby-sapphire-26","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"combusken-ruby-sapphire-27","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"combusken-ruby-sapphire-28","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"delcatty-ruby-sapphire-29","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"electrike-ruby-sapphire-30","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"grovyle-ruby-sapphire-31","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"grovyle-ruby-sapphire-32","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"hariyama-ruby-sapphire-33","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"kirlia-ruby-sapphire-34","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"kirlia-ruby-sapphire-35","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lairon-ruby-sapphire-36","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"lairon-ruby-sapphire-37","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"linoone-ruby-sapphire-38","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"manectric-ruby-sapphire-39","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"marshtomp-ruby-sapphire-40","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"marshtomp-ruby-sapphire-41","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"mightyena-ruby-sapphire-42","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"silcoon-ruby-sapphire-43","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"skitty-ruby-sapphire-44","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"slakoth-ruby-sapphire-45","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"swellow-ruby-sapphire-46","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"vigoroth-ruby-sapphire-47","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"wailmer-ruby-sapphire-48","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"energy-removal-2-ruby-sapphire-80","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"energy-restore-ruby-sapphire-81","raw":"1 sale per month","psa10":"5 sales per year","likit":1}
+{"slug":"energy-switch-ruby-sapphire-82","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"lady-outing-ruby-sapphire-83","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"lum-berry-ruby-sapphire-84","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"oran-berry-ruby-sapphire-85","raw":"2 sales per month","psa10":"2 sales per year","likit":1}
+{"slug":"pok-ball-ruby-sapphire-86","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"pok-mon-reversal-ruby-sapphire-87","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"pok-nav-ruby-sapphire-88","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"professor-birch-ruby-sapphire-89","raw":"2 sales per month","psa10":"3 sales per year","likit":1}
+{"slug":"aron-ruby-sapphire-49","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"aron-ruby-sapphire-50","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"carvanha-ruby-sapphire-51","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"electrike-ruby-sapphire-52","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"electrike-ruby-sapphire-53","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"koffing-ruby-sapphire-54","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"goldeen-ruby-sapphire-55","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"makuhita-ruby-sapphire-56","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"makuhita-ruby-sapphire-57","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"makuhita-ruby-sapphire-58","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"mudkip-ruby-sapphire-59","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"mudkip-ruby-sapphire-60","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"numel-ruby-sapphire-61","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"phanpy-ruby-sapphire-62","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"poochyena-ruby-sapphire-63","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"poochyena-ruby-sapphire-64","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"poochyena-ruby-sapphire-65","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ralts-ruby-sapphire-66","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"ralts-ruby-sapphire-67","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"ralts-ruby-sapphire-68","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"shroomish-ruby-sapphire-69","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"skitty-ruby-sapphire-70","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"skitty-ruby-sapphire-71","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"taillow-ruby-sapphire-72","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"torchic-ruby-sapphire-73","raw":"3 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"torchic-ruby-sapphire-74","raw":"1 sale per day","psa10":"2 sales per year","likit":1}
+{"slug":"treecko-ruby-sapphire-75","raw":"1 sale per day","psa10":"3 sales per year","likit":1}
+{"slug":"treecko-ruby-sapphire-76","raw":"1 sale per day","psa10":"2 sales per year","likit":1}
+{"slug":"wingull-ruby-sapphire-77","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"wurmple-ruby-sapphire-78","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"zigzagoon-ruby-sapphire-79","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"energy-search-ruby-sapphire-90","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"potion-ruby-sapphire-91","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"switch-ruby-sapphire-92","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"grass-energy-ruby-sapphire-104","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"fighting-energy-ruby-sapphire-105","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"water-energy-ruby-sapphire-106","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"psychic-energy-ruby-sapphire-107","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"fire-energy-ruby-sapphire-108","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"lightning-energy-ruby-sapphire-109","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"ampharos-unseen-forces-1","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"ariados-unseen-forces-2","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"bellossom-unseen-forces-3","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"feraligatr-unseen-forces-4","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"flareon-unseen-forces-5","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"forretress-unseen-forces-6","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"houndoom-unseen-forces-7","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"jolteon-unseen-forces-8","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"meganium-unseen-forces-9","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"octillery-unseen-forces-10","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"poliwrath-unseen-forces-11","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"porygon2-unseen-forces-12","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"slowbro-unseen-forces-13","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"slowking-unseen-forces-14","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"sudowoodo-unseen-forces-15","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"sunflora-unseen-forces-16","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"typhlosion-unseen-forces-17","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"ursaring-unseen-forces-18","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"vaporeon-unseen-forces-19","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"blissey-ex-unseen-forces-101","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"espeon-ex-unseen-forces-102","raw":"3 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"feraligatr-ex-unseen-forces-103","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"ho-oh-ex-unseen-forces-104","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"lugia-ex-unseen-forces-105","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"meganium-ex-unseen-forces-106","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"politoed-ex-unseen-forces-107","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"scizor-ex-unseen-forces-108","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"steelix-ex-unseen-forces-109","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"typhlosion-ex-unseen-forces-110","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"tyranitar-ex-unseen-forces-111","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"umbreon-ex-unseen-forces-112","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"entei-unseen-forces-113","raw":"1 sale per week","psa10":"1 sale per day","likit":1}
+{"slug":"raikou-unseen-forces-114","raw":"1 sale per week","psa10":"1 sale per day","likit":1}
+{"slug":"suicune-unseen-forces-115","raw":"1 sale per week","psa10":"3 sales per week","likit":1}
+{"slug":"chansey-unseen-forces-20","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"cleffa-unseen-forces-21","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"electabuzz-unseen-forces-22","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"elekid-unseen-forces-23","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"hitmonchan-unseen-forces-24","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"hitmonlee-unseen-forces-25","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"hitmontop-unseen-forces-26","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"ho-oh-unseen-forces-27","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"jynx-unseen-forces-28","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lugia-unseen-forces-29","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"murkrow-unseen-forces-30","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"smoochum-unseen-forces-31","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"stantler-unseen-forces-32","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"tyrogue-unseen-forces-33","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"darkness-energy-unseen-forces-96","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"metal-energy-unseen-forces-97","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"unown-unseen-forces-a","raw":"3 sales per week","psa10":"3 sales per week","likit":1}
+{"slug":"unown-unseen-forces-b","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"unown-unseen-forces-c","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"unown-unseen-forces-d","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"unown-unseen-forces-e","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"unown-unseen-forces-f","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"unown-unseen-forces-g","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"unown-unseen-forces-h","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"unown-unseen-forces-i","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"unown-unseen-forces-j","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"unown-unseen-forces-k","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"unown-unseen-forces-l","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"unown-unseen-forces-m","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"unown-unseen-forces-n","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"unown-unseen-forces-o","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"unown-unseen-forces-p","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"unown-unseen-forces-q","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"unown-unseen-forces-r","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"unown-unseen-forces-s","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"unown-unseen-forces-t","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"unown-unseen-forces-u","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"unown-unseen-forces-v","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"unown-unseen-forces-w","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"unown-unseen-forces-x","raw":"5 sales per year","psa10":"rare","likit":0}
+{"slug":"unown-unseen-forces-y","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"unown-unseen-forces-z","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"unown-unseen-forces-!","raw":"5 sales per year","psa10":"1 sale per year","likit":0}
+{"slug":"unown-unseen-forces-?","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"aipom-unseen-forces-34","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"bayleef-unseen-forces-35","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"clefable-unseen-forces-36","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"corsola-unseen-forces-37","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"croconaw-unseen-forces-38","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"granbull-unseen-forces-39","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"lanturn-unseen-forces-40","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"magcargo-unseen-forces-41","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"miltank-unseen-forces-42","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"noctowl-unseen-forces-43","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"quagsire-unseen-forces-44","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"quilava-unseen-forces-45","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"scyther-unseen-forces-46","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"shuckle-unseen-forces-47","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"smeargle-unseen-forces-48","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"xatu-unseen-forces-49","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"yanma-unseen-forces-50","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"curse-powder-unseen-forces-80","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"energy-recycle-system-unseen-forces-81","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"energy-removal-2-unseen-forces-82","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"energy-root-unseen-forces-83","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"energy-switch-unseen-forces-84","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"fluffy-berry-unseen-forces-85","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"marys-request-unseen-forces-86","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"pok-ball-unseen-forces-87","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"pok-mon-reversal-unseen-forces-88","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"professor-elms-training-method-unseen-forces-89","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"protective-orb-unseen-forces-90","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"sitrus-berry-unseen-forces-91","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"solid-rage-unseen-forces-92","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"warp-point-unseen-forces-93","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"boost-energy-unseen-forces-98","raw":"2 sales per month","psa10":"2 sales per year","likit":1}
+{"slug":"cyclone-energy-unseen-forces-99","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"warp-energy-unseen-forces-100","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"chikorita-unseen-forces-51","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"chinchou-unseen-forces-52","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"clefairy-unseen-forces-53","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"cyndaquil-unseen-forces-54","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"eevee-unseen-forces-55","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"flaaffy-unseen-forces-56","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"gligar-unseen-forces-57","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"gloom-unseen-forces-58","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"hoothoot-unseen-forces-59","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"houndour-unseen-forces-60","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"larvitar-unseen-forces-61","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"mareep-unseen-forces-62","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"natu-unseen-forces-63","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"oddish-unseen-forces-64","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"onix-unseen-forces-65","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"pineco-unseen-forces-66","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"poliwag-unseen-forces-67","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"poliwhirl-unseen-forces-68","raw":"1 sale per day","psa10":"2 sales per year","likit":1}
+{"slug":"porygon-unseen-forces-69","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"pupitar-unseen-forces-70","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"remoraid-unseen-forces-71","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"slowpoke-unseen-forces-72","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"slugma-unseen-forces-73","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"snubbull-unseen-forces-74","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"spinarak-unseen-forces-75","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"sunkern-unseen-forces-76","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"teddiursa-unseen-forces-77","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"totodile-unseen-forces-78","raw":"3 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"wooper-unseen-forces-79","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"energy-search-unseen-forces-94","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"potion-unseen-forces-95","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"rockets-persian-ex-unseen-forces-116","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"celebi-ex-unseen-forces-117","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"beedrill-delta-species-1","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"crobat-delta-species-2","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"dragonite-delta-species-3","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"espeon-delta-species-4","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"flareon-delta-species-5","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"gardevoir-delta-species-6","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"jolteon-delta-species-7","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"latias-delta-species-8","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"latios-delta-species-9","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"marowak-delta-species-10","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"metagross-delta-species-11","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"mewtwo-delta-species-12","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"rayquaza-delta-species-13","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"salamence-delta-species-14","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"starmie-delta-species-15","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"tyranitar-delta-species-16","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"umbreon-delta-species-17","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"vaporeon-delta-species-18","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"flareon-ex-delta-species-108","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"jolteon-ex-delta-species-109","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"vaporeon-ex-delta-species-110","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"groudon-delta-species-111","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"kyogre-delta-species-112","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"metagross-delta-species-113","raw":"2 sales per month","psa10":"1 sale per week","likit":1}
+{"slug":"azumarill-delta-species-19","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"azurill-delta-species-20","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"holons-electrode-delta-species-21","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"holons-magneton-delta-species-22","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"hypno-delta-species-23","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"mightyena-delta-species-24","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"porygon2-delta-species-25","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"rain-castform-delta-species-26","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"sandslash-delta-species-27","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"slowking-delta-species-28","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"snow-cloud-castform-delta-species-29","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"starmie-delta-species-30","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"sunny-castform-delta-species-31","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"swellow-delta-species-32","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"weezing-delta-species-33","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"darkness-energy-delta-species-103","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"holon-energy-ff-delta-species-104","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"holon-energy-gl-delta-species-105","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"holon-energy-wp-delta-species-106","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"metal-energy-delta-species-107","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"castform-delta-species-34","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"ditto-delta-species-35","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"ditto-delta-species-36","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"ditto-delta-species-37","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ditto-delta-species-38","raw":"3 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"ditto-delta-species-39","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"ditto-delta-species-40","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"dragonair-delta-species-41","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"dragonair-delta-species-42","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"golbat-delta-species-43","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"hariyama-delta-species-44","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"illumise-delta-species-45","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"kakuna-delta-species-46","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"kirlia-delta-species-47","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"magneton-delta-species-48","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"metang-delta-species-49","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"persian-delta-species-50","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"pupitar-delta-species-51","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"rapidash-delta-species-52","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"shelgon-delta-species-53","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"shelgon-delta-species-54","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"skarmory-delta-species-55","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"volbeat-delta-species-56","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"dual-ball-delta-species-89","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"great-ball-delta-species-90","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"holon-farmer-delta-species-91","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"holon-lass-delta-species-92","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"holon-mentor-delta-species-93","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"holon-research-tower-delta-species-94","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"holon-researcher-delta-species-95","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"holon-ruins-delta-species-96","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"holon-scientist-delta-species-97","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"holon-transceiver-delta-species-98","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"master-ball-delta-species-99","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"super-scoop-up-delta-species-100","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"bagon-delta-species-57","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"bagon-delta-species-58","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"beldum-delta-species-59","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"cubone-delta-species-60","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"ditto-delta-species-61","raw":"3 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"ditto-delta-species-62","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"ditto-delta-species-63","raw":"3 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"ditto-delta-species-64","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"dratini-delta-species-65","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"dratini-delta-species-66","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"drowzee-delta-species-67","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"eevee-delta-species-68","raw":"3 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"eevee-delta-species-69","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"holons-magnemite-delta-species-70","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"holons-voltorb-delta-species-71","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"koffing-delta-species-72","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"larvitar-delta-species-73","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"magnemite-delta-species-74","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"makuhita-delta-species-75","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"marill-delta-species-76","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"meowth-delta-species-77","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"ponyta-delta-species-78","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"poochyena-delta-species-79","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"porygon-delta-species-80","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ralts-delta-species-81","raw":"1 sale per day","psa10":"rare","likit":0}
+{"slug":"sandshrew-delta-species-82","raw":"3 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"slowpoke-delta-species-83","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"staryu-delta-species-84","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"staryu-delta-species-85","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"taillow-delta-species-86","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"weedle-delta-species-87","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"zubat-delta-species-88","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"potion-delta-species-101","raw":"1 sale per month","psa10":"3 sales per year","likit":1}
+{"slug":"switch-delta-species-102","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"azumarill-delta-species-114","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"aerodactyl-legend-maker-1","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"aggron-legend-maker-2","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"cradily-legend-maker-3","raw":"2 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"delcatty-legend-maker-4","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"gengar-legend-maker-5","raw":"2 sales per week","psa10":"2 sales per week","likit":1}
+{"slug":"golem-legend-maker-6","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"kabutops-legend-maker-7","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"lapras-legend-maker-8","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"machamp-legend-maker-9","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"mew-legend-maker-10","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"muk-legend-maker-11","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"shiftry-legend-maker-12","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"victreebel-legend-maker-13","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"wailord-legend-maker-14","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"arcanine-ex-legend-maker-83","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"armaldo-ex-legend-maker-84","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"banette-ex-legend-maker-85","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"dustox-ex-legend-maker-86","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"flygon-ex-legend-maker-87","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"mew-ex-legend-maker-88","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"walrein-ex-legend-maker-89","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"regice-legend-maker-90","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"regirock-legend-maker-91","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"registeel-legend-maker-92","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"absol-legend-maker-15","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"girafarig-legend-maker-16","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"gorebyss-legend-maker-17","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"huntail-legend-maker-18","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"lanturn-legend-maker-19","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"lunatone-legend-maker-20","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"magmar-legend-maker-21","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"magneton-legend-maker-22","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"omastar-legend-maker-23","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"pinsir-legend-maker-24","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"solrock-legend-maker-25","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"spinda-legend-maker-26","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"torkoal-legend-maker-27","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"wobbuffet-legend-maker-28","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"rainbow-energy-legend-maker-81","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"anorith-legend-maker-29","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"cascoon-legend-maker-30","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"dunsparce-legend-maker-31","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"electrode-legend-maker-32","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"furret-legend-maker-33","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"graveler-legend-maker-34","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"haunter-legend-maker-35","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"kabuto-legend-maker-36","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"kecleon-legend-maker-37","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lairon-legend-maker-38","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"machoke-legend-maker-39","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"misdreavus-legend-maker-40","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"nuzleaf-legend-maker-41","raw":"1 sale per month","psa10":"2 sales per year","likit":1}
+{"slug":"roselia-legend-maker-42","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"sealeo-legend-maker-43","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"tangela-legend-maker-44","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"tentacruel-legend-maker-45","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"vibrava-legend-maker-46","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"weepinbell-legend-maker-47","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"cursed-stone-legend-maker-72","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"fieldworker-legend-maker-73","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"full-flame-legend-maker-74","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"giant-stump-legend-maker-75","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"power-tree-legend-maker-76","raw":"1 sale per month","psa10":"2 sales per year","likit":1}
+{"slug":"strange-cave-legend-maker-77","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"react-energy-legend-maker-82","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"aron-legend-maker-48","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"bellsprout-legend-maker-49","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"chinchou-legend-maker-50","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"clamperl-legend-maker-51","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"gastly-legend-maker-52","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"geodude-legend-maker-53","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"grimer-legend-maker-54","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"growlithe-legend-maker-55","raw":"3 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"lileep-legend-maker-56","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"machop-legend-maker-57","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"magby-legend-maker-58","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"magnemite-legend-maker-59","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"omanyte-legend-maker-60","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"seedot-legend-maker-61","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"sentret-legend-maker-62","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"shuppet-legend-maker-63","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"skitty-legend-maker-64","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"spheal-legend-maker-65","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"tentacool-legend-maker-66","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"trapinch-legend-maker-67","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"voltorb-legend-maker-68","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"wailmer-legend-maker-69","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"wurmple-legend-maker-70","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"wynaut-legend-maker-71","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"claw-fossil-legend-maker-78","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"mysterious-fossil-legend-maker-79","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"root-fossil-legend-maker-80","raw":"2 sales per month","psa10":"3 sales per year","likit":1}
+{"slug":"pikachu-legend-maker-93","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"armaldo-holon-phantoms-1","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"cradily-holon-phantoms-2","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"deoxys-holon-phantoms-3","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"deoxys-holon-phantoms-4","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"deoxys-holon-phantoms-5","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"deoxys-holon-phantoms-6","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"flygon-holon-phantoms-7","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"gyarados-holon-phantoms-8","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"kabutops-holon-phantoms-9","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"kingdra-holon-phantoms-10","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"latias-holon-phantoms-11","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"latios-holon-phantoms-12","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"omastar-holon-phantoms-13","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"pidgeot-holon-phantoms-14","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"raichu-holon-phantoms-15","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"rayquaza-holon-phantoms-16","raw":"1 sale per week","psa10":"2 sales per week","likit":1}
+{"slug":"vileplume-holon-phantoms-17","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"crawdaunt-ex-holon-phantoms-99","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"mew-ex-holon-phantoms-100","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"mightyena-ex-holon-phantoms-101","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"gyarados-holon-phantoms-102","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"mewtwo-holon-phantoms-103","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"pikachu-holon-phantoms-104","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"grass-energy-holon-phantoms-105","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"fire-energy-holon-phantoms-106","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"water-energy-holon-phantoms-107","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"lightning-energy-holon-phantoms-108","raw":"2 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"psychic-energy-holon-phantoms-109","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"fighting-energy-holon-phantoms-110","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"absol-holon-phantoms-18","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"bellossom-holon-phantoms-19","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"blaziken-holon-phantoms-20","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"latias-holon-phantoms-21","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"latios-holon-phantoms-22","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"mawile-holon-phantoms-23","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"mewtwo-holon-phantoms-24","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"nosepass-holon-phantoms-25","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"rayquaza-holon-phantoms-26","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"regice-holon-phantoms-27","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"regirock-holon-phantoms-28","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"registeel-holon-phantoms-29","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"relicanth-holon-phantoms-30","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"sableye-holon-phantoms-31","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"seviper-holon-phantoms-32","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"torkoal-holon-phantoms-33","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"zangoose-holon-phantoms-34","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"darkness-energy-holon-phantoms-94","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"metal-energy-holon-phantoms-95","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"multi-energy-holon-phantoms-96","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"aerodactyl-holon-phantoms-35","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"camerupt-holon-phantoms-36","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"chimecho-holon-phantoms-37","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"claydol-holon-phantoms-38","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"combusken-holon-phantoms-39","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"donphan-holon-phantoms-40","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"exeggutor-holon-phantoms-41","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"gloom-holon-phantoms-42","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"golduck-holon-phantoms-43","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"holons-castform-holon-phantoms-44","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lairon-holon-phantoms-45","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"manectric-holon-phantoms-46","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"masquerain-holon-phantoms-47","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"persian-holon-phantoms-48","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"pidgeotto-holon-phantoms-49","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"primeape-holon-phantoms-50","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"raichu-holon-phantoms-51","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"seadra-holon-phantoms-52","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"sharpedo-holon-phantoms-53","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"vibrava-holon-phantoms-54","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"whiscash-holon-phantoms-55","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"wobbuffet-holon-phantoms-56","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"holon-adventurer-holon-phantoms-85","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"holon-fossil-holon-phantoms-86","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"holon-lake-holon-phantoms-87","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"mr-stones-project-holon-phantoms-88","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"professor-cozmos-discovery-holon-phantoms-89","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"rare-candy-holon-phantoms-90","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"dark-metal-energy-holon-phantoms-97","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"rainbow-energy-holon-phantoms-98","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"anorith-holon-phantoms-57","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"aron-holon-phantoms-58","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"baltoy-holon-phantoms-59","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"barboach-holon-phantoms-60","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"carvanha-holon-phantoms-61","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"corphish-holon-phantoms-62","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"corphish-holon-phantoms-63","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"electrike-holon-phantoms-64","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"exeggcute-holon-phantoms-65","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"horsea-holon-phantoms-66","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"kabuto-holon-phantoms-67","raw":"3 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"lileep-holon-phantoms-68","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"magikarp-holon-phantoms-69","raw":"1 sale per day","psa10":"3 sales per year","likit":1}
+{"slug":"mankey-holon-phantoms-70","raw":"3 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"meowth-holon-phantoms-71","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"numel-holon-phantoms-72","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"oddish-holon-phantoms-73","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"omanyte-holon-phantoms-74","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"phanpy-holon-phantoms-75","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"pichu-holon-phantoms-76","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"pidgey-holon-phantoms-77","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"pikachu-holon-phantoms-78","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"pikachu-holon-phantoms-79","raw":"3 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"poochyena-holon-phantoms-80","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"psyduck-holon-phantoms-81","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"surskit-holon-phantoms-82","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"torchic-holon-phantoms-83","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"trapinch-holon-phantoms-84","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"claw-fossil-holon-phantoms-91","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"mysterious-fossil-holon-phantoms-92","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"root-fossil-holon-phantoms-93","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"mew-holon-phantoms-111","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"banette-crystal-guardians-1","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"blastoise-crystal-guardians-2","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"camerupt-crystal-guardians-3","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"charizard-crystal-guardians-4","raw":"1 sale per week","psa10":"2 sales per week","likit":1}
+{"slug":"dugtrio-crystal-guardians-5","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"ludicolo-crystal-guardians-6","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"luvdisc-crystal-guardians-7","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"manectric-crystal-guardians-8","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"mawile-crystal-guardians-9","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"sableye-crystal-guardians-10","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"swalot-crystal-guardians-11","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"tauros-crystal-guardians-12","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"wigglytuff-crystal-guardians-13","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"aggron-ex-crystal-guardians-89","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"blaziken-ex-crystal-guardians-90","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"delcatty-ex-crystal-guardians-91","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"exploud-ex-crystal-guardians-92","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"groudon-ex-crystal-guardians-93","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"jirachi-ex-crystal-guardians-94","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"kyogre-ex-crystal-guardians-95","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"sceptile-ex-crystal-guardians-96","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"shiftry-ex-crystal-guardians-97","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"swampert-ex-crystal-guardians-98","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"alakazam-crystal-guardians-99","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"celebi-crystal-guardians-100","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"blastoise-crystal-guardians-14","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"cacturne-crystal-guardians-15","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"combusken-crystal-guardians-16","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"dusclops-crystal-guardians-17","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"fearow-crystal-guardians-18","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"grovyle-crystal-guardians-19","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"grumpig-crystal-guardians-20","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"igglybuff-crystal-guardians-21","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"kingler-crystal-guardians-22","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"loudred-crystal-guardians-23","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"marshtomp-crystal-guardians-24","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"medicham-crystal-guardians-25","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"pelipper-crystal-guardians-26","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"swampert-crystal-guardians-27","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"venusaur-crystal-guardians-28","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"double-rainbow-energy-crystal-guardians-88","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"charmeleon-crystal-guardians-29","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"charmeleon-crystal-guardians-30","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"combusken-crystal-guardians-31","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"grovyle-crystal-guardians-32","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"gulpin-crystal-guardians-33","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"ivysaur-crystal-guardians-34","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ivysaur-crystal-guardians-35","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"lairon-crystal-guardians-36","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lombre-crystal-guardians-37","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"marshtomp-crystal-guardians-38","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"nuzleaf-crystal-guardians-39","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"shuppet-crystal-guardians-40","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"skitty-crystal-guardians-41","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"wartortle-crystal-guardians-42","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"wartortle-crystal-guardians-43","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"bills-maintenance-crystal-guardians-71","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"castaway-crystal-guardians-72","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"celios-network-crystal-guardians-73","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"cessation-crystal-crystal-guardians-74","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"crystal-beach-crystal-guardians-75","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"crystal-shard-crystal-guardians-76","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"double-full-heal-crystal-guardians-77","raw":"1 sale per month","psa10":"3 sales per year","likit":1}
+{"slug":"dual-ball-crystal-guardians-78","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"holon-circle-crystal-guardians-79","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"memory-berry-crystal-guardians-80","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"mysterious-shard-crystal-guardians-81","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"pok-ball-crystal-guardians-82","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"pok-nav-crystal-guardians-83","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"warp-point-crystal-guardians-84","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"windstorm-crystal-guardians-85","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"aron-crystal-guardians-44","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"bulbasaur-crystal-guardians-45","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"bulbasaur-crystal-guardians-46","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"cacnea-crystal-guardians-47","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"charmander-crystal-guardians-48","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"charmander-crystal-guardians-49","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"diglett-crystal-guardians-50","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"duskull-crystal-guardians-51","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"electrike-crystal-guardians-52","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"jigglypuff-crystal-guardians-53","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"krabby-crystal-guardians-54","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lotad-crystal-guardians-55","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"meditite-crystal-guardians-56","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"mudkip-crystal-guardians-57","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"mudkip-crystal-guardians-58","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"numel-crystal-guardians-59","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"seedot-crystal-guardians-60","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"spearow-crystal-guardians-61","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"spoink-crystal-guardians-62","raw":"3 sales per week","psa10":"rare","likit":0}
+{"slug":"squirtle-crystal-guardians-63","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"squirtle-crystal-guardians-64","raw":"3 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"torchic-crystal-guardians-65","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"torchic-crystal-guardians-66","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"treecko-crystal-guardians-67","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"treecko-crystal-guardians-68","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"whismur-crystal-guardians-69","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"wingull-crystal-guardians-70","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"energy-search-crystal-guardians-86","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"potion-crystal-guardians-87","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"ampharos-dragon-frontiers-1","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"feraligatr-dragon-frontiers-2","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"heracross-dragon-frontiers-3","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"meganium-dragon-frontiers-4","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"milotic-dragon-frontiers-5","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"nidoking-dragon-frontiers-6","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"nidoqueen-dragon-frontiers-7","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"ninetales-dragon-frontiers-8","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"pinsir-dragon-frontiers-9","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"snorlax-dragon-frontiers-10","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"togetic-dragon-frontiers-11","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"typhlosion-dragon-frontiers-12","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"altaria-ex-dragon-frontiers-90","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"dragonite-ex-dragon-frontiers-91","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"flygon-ex-dragon-frontiers-92","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"gardevoir-ex-dragon-frontiers-93","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"kingdra-ex-dragon-frontiers-94","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"latias-ex-dragon-frontiers-95","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"latios-ex-dragon-frontiers-96","raw":"1 sale per day","psa10":"2 sales per month","likit":1}
+{"slug":"rayquaza-ex-dragon-frontiers-97","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"salamence-ex-dragon-frontiers-98","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"tyranitar-ex-dragon-frontiers-99","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"charizard-dragon-frontiers-100","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"mew-dragon-frontiers-101","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"arbok-dragon-frontiers-13","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"cloyster-dragon-frontiers-14","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"dewgong-dragon-frontiers-15","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"gligar-dragon-frontiers-16","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"jynx-dragon-frontiers-17","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ledian-dragon-frontiers-18","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lickitung-dragon-frontiers-19","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"mantine-dragon-frontiers-20","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"quagsire-dragon-frontiers-21","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"seadra-dragon-frontiers-22","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"tropius-dragon-frontiers-23","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"vibrava-dragon-frontiers-24","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"xatu-dragon-frontiers-25","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"holon-energy-ff-dragon-frontiers-84","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"holon-energy-gl-dragon-frontiers-85","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"holon-energy-wp-dragon-frontiers-86","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"bayleef-dragon-frontiers-26","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"croconaw-dragon-frontiers-27","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"dragonair-dragon-frontiers-28","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"electabuzz-dragon-frontiers-29","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"flaaffy-dragon-frontiers-30","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"horsea-dragon-frontiers-31","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"kirlia-dragon-frontiers-32","raw":"2 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"kirlia-dragon-frontiers-33","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"nidorina-dragon-frontiers-34","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"nidorino-dragon-frontiers-35","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"quilava-dragon-frontiers-36","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"seadra-dragon-frontiers-37","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"shelgon-dragon-frontiers-38","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"smeargle-dragon-frontiers-39","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"swellow-dragon-frontiers-40","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"togepi-dragon-frontiers-41","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"vibrava-dragon-frontiers-42","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"buffer-piece-dragon-frontiers-72","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"copycat-dragon-frontiers-73","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"holon-legacy-dragon-frontiers-74","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"holon-mentor-dragon-frontiers-75","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"island-hermit-dragon-frontiers-76","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"mr-stones-project-dragon-frontiers-77","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"old-rod-dragon-frontiers-78","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"professor-elms-training-method-dragon-frontiers-79","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"professor-oaks-research-dragon-frontiers-80","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"strength-charm-dragon-frontiers-81","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"tv-reporter-dragon-frontiers-82","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"boost-energy-dragon-frontiers-87","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"rainbow-energy-dragon-frontiers-88","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"scramble-energy-dragon-frontiers-89","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"bagon-dragon-frontiers-43","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"chikorita-dragon-frontiers-44","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"cyndaquil-dragon-frontiers-45","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"dratini-dragon-frontiers-46","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ekans-dragon-frontiers-47","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"elekid-dragon-frontiers-48","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"feebas-dragon-frontiers-49","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"horsea-dragon-frontiers-50","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"larvitar-dragon-frontiers-51","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"larvitar-dragon-frontiers-52","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"ledyba-dragon-frontiers-53","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"mareep-dragon-frontiers-54","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"natu-dragon-frontiers-55","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"nidoran-dragon-frontiers-56","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"nidoran-dragon-frontiers-57","raw":"1 sale per day","psa10":"rare","likit":0}
+{"slug":"pupitar-dragon-frontiers-58","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"pupitar-dragon-frontiers-59","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ralts-dragon-frontiers-60","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ralts-dragon-frontiers-61","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"seel-dragon-frontiers-62","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"shellder-dragon-frontiers-63","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"smoochum-dragon-frontiers-64","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"swablu-dragon-frontiers-65","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"taillow-dragon-frontiers-66","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"totodile-dragon-frontiers-67","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"trapinch-dragon-frontiers-68","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"trapinch-dragon-frontiers-69","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"vulpix-dragon-frontiers-70","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"wooper-dragon-frontiers-71","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"switch-dragon-frontiers-83","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"aggron-power-keepers-1","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"altaria-power-keepers-2","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"armaldo-power-keepers-3","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"banette-power-keepers-4","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"blaziken-power-keepers-5","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"charizard-power-keepers-6","raw":"1 sale per week","psa10":"2 sales per week","likit":1}
+{"slug":"cradily-power-keepers-7","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"delcatty-power-keepers-8","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"gardevoir-power-keepers-9","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"kabutops-power-keepers-10","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"machamp-power-keepers-11","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"raichu-power-keepers-12","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"slaking-power-keepers-13","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"absol-ex-power-keepers-92","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"claydol-ex-power-keepers-93","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"flygon-ex-power-keepers-94","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"metagross-ex-power-keepers-95","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"salamence-ex-power-keepers-96","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"shiftry-ex-power-keepers-97","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"skarmory-ex-power-keepers-98","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"walrein-ex-power-keepers-99","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"flareon-power-keepers-100","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"jolteon-power-keepers-101","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"vaporeon-power-keepers-102","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"grass-energy-power-keepers-103","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"fire-energy-power-keepers-104","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"water-energy-power-keepers-105","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"lightning-energy-power-keepers-106","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"psychic-energy-power-keepers-107","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"fighting-energy-power-keepers-108","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"dusclops-power-keepers-14","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"lanturn-power-keepers-15","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"magneton-power-keepers-16","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"mawile-power-keepers-17","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"mightyena-power-keepers-18","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"ninetales-power-keepers-19","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"omastar-power-keepers-20","raw":"1 sale per week","psa10":"3 sales per year","likit":1}
+{"slug":"pichu-power-keepers-21","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"sableye-power-keepers-22","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"seviper-power-keepers-23","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"wobbuffet-power-keepers-24","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"zangoose-power-keepers-25","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"darkness-energy-power-keepers-87","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"metal-energy-power-keepers-88","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"multi-energy-power-keepers-89","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"anorith-power-keepers-26","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"cacturne-power-keepers-27","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"charmeleon-power-keepers-28","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"combusken-power-keepers-29","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"glalie-power-keepers-30","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"kirlia-power-keepers-31","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lairon-power-keepers-32","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"machoke-power-keepers-33","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"medicham-power-keepers-34","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"metang-power-keepers-35","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"nuzleaf-power-keepers-36","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"sealeo-power-keepers-37","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"sharpedo-power-keepers-38","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"shelgon-power-keepers-39","raw":"1 sale per month","psa10":"2 sales per year","likit":1}
+{"slug":"vibrava-power-keepers-40","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"vigoroth-power-keepers-41","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"battle-frontier-power-keepers-71","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"drakes-stadium-power-keepers-72","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"energy-recycle-system-power-keepers-73","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"energy-removal-2-power-keepers-74","raw":"1 sale per month","psa10":"2 sales per year","likit":1}
+{"slug":"energy-switch-power-keepers-75","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"glacias-stadium-power-keepers-76","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"great-ball-power-keepers-77","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"master-ball-power-keepers-78","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"phoebes-stadium-power-keepers-79","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"professor-birch-power-keepers-80","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"scott-power-keepers-81","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"sidneys-stadium-power-keepers-82","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"stevens-advice-power-keepers-83","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"cyclone-energy-power-keepers-90","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"warp-energy-power-keepers-91","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"aron-power-keepers-42","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"bagon-power-keepers-43","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"baltoy-power-keepers-44","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"beldum-power-keepers-45","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"cacnea-power-keepers-46","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"carvanha-power-keepers-47","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"charmander-power-keepers-48","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"chinchou-power-keepers-49","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"duskull-power-keepers-50","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"kabuto-power-keepers-51","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"lileep-power-keepers-52","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"machop-power-keepers-53","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"magnemite-power-keepers-54","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"meditite-power-keepers-55","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"omanyte-power-keepers-56","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"pikachu-power-keepers-57","raw":"2 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"poochyena-power-keepers-58","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"ralts-power-keepers-59","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"seedot-power-keepers-60","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"shuppet-power-keepers-61","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"skitty-power-keepers-62","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"slakoth-power-keepers-63","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"snorunt-power-keepers-64","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"spheal-power-keepers-65","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"swablu-power-keepers-66","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"torchic-power-keepers-67","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"trapinch-power-keepers-68","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"vulpix-power-keepers-69","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"wynaut-power-keepers-70","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"claw-fossil-power-keepers-84","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"mysterious-fossil-power-keepers-85","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"root-fossil-power-keepers-86","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"armaldo-sandstorm-1","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"cacturne-sandstorm-2","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"cradily-sandstorm-3","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"dusclops-sandstorm-4","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"flareon-sandstorm-5","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"jolteon-sandstorm-6","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"ludicolo-sandstorm-7","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"lunatone-sandstorm-8","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"mawile-sandstorm-9","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"sableye-sandstorm-10","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"seviper-sandstorm-11","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"shiftry-sandstorm-12","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"solrock-sandstorm-13","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"zangoose-sandstorm-14","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"aerodactyl-ex-sandstorm-94","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"aggron-ex-sandstorm-95","raw":"1 sale per day","psa10":"2 sales per week","likit":1}
+{"slug":"gardevoir-ex-sandstorm-96","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"kabutops-ex-sandstorm-97","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"raichu-ex-sandstorm-98","raw":"1 sale per week","psa10":"2 sales per week","likit":1}
+{"slug":"typhlosion-ex-sandstorm-99","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"wailord-ex-sandstorm-100","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"arcanine-sandstorm-15","raw":"3 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"espeon-sandstorm-16","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"golduck-sandstorm-17","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"kecleon-sandstorm-18","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"omastar-sandstorm-19","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"pichu-sandstorm-20","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"sandslash-sandstorm-21","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"shiftry-sandstorm-22","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"steelix-sandstorm-23","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"umbreon-sandstorm-24","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"vaporeon-sandstorm-25","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"wobbuffet-sandstorm-26","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"multi-energy-sandstorm-93","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"anorith-sandstorm-27","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"anorith-sandstorm-28","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"arbok-sandstorm-29","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"azumarill-sandstorm-30","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"azurill-sandstorm-31","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"baltoy-sandstorm-32","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"breloom-sandstorm-33","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"delcatty-sandstorm-34","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"electabuzz-sandstorm-35","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"elekid-sandstorm-36","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"fearow-sandstorm-37","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"illumise-sandstorm-38","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"kabuto-sandstorm-39","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"kirlia-sandstorm-40","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"lairon-sandstorm-41","raw":"2 sales per month","psa10":"3 sales per year","likit":1}
+{"slug":"lileep-sandstorm-42","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lileep-sandstorm-43","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"linoone-sandstorm-44","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"lombre-sandstorm-45","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"lombre-sandstorm-46","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"murkrow-sandstorm-47","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"nuzleaf-sandstorm-48","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"nuzleaf-sandstorm-49","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"pelipper-sandstorm-50","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"quilava-sandstorm-51","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"vigoroth-sandstorm-52","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"volbeat-sandstorm-53","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"wynaut-sandstorm-54","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"xatu-sandstorm-55","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"double-full-heal-sandstorm-86","raw":"1 sale per month","psa10":"2 sales per year","likit":1}
+{"slug":"lanettes-net-search-sandstorm-87","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"rare-candy-sandstorm-88","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"wallys-training-sandstorm-89","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"aron-sandstorm-56","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"cacnea-sandstorm-57","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"cacnea-sandstorm-58","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"cyndaquil-sandstorm-59","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"dunsparce-sandstorm-60","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"duskull-sandstorm-61","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"duskull-sandstorm-62","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"eevee-sandstorm-63","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"ekans-sandstorm-64","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"growlithe-sandstorm-65","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"lotad-sandstorm-66","raw":"1 sale per day","psa10":"1 sale per year","likit":0}
+{"slug":"lotad-sandstorm-67","raw":"3 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"marill-sandstorm-68","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"natu-sandstorm-69","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"omanyte-sandstorm-70","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"onix-sandstorm-71","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"pikachu-sandstorm-72","raw":"3 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"psyduck-sandstorm-73","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"ralts-sandstorm-74","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"sandshrew-sandstorm-75","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"seedot-sandstorm-76","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"seedot-sandstorm-77","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"shroomish-sandstorm-78","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"skitty-sandstorm-79","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"slakoth-sandstorm-80","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"spearow-sandstorm-81","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"trapinch-sandstorm-82","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"wailmer-sandstorm-83","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"wingull-sandstorm-84","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"zigzagoon-sandstorm-85","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"claw-fossil-sandstorm-90","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"mysterious-fossil-sandstorm-91","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"root-fossil-sandstorm-92","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"absol-dragon-1","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"altaria-dragon-2","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"crawdaunt-dragon-3","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"flygon-dragon-4","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"golem-dragon-5","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"grumpig-dragon-6","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"minun-dragon-7","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"plusle-dragon-8","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"roselia-dragon-9","raw":"3 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"salamence-dragon-10","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"shedinja-dragon-11","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"torkoal-dragon-12","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"ampharos-ex-dragon-89","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"dragonite-ex-dragon-90","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"golem-ex-dragon-91","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"kingdra-ex-dragon-92","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"latias-ex-dragon-93","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"latios-ex-dragon-94","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"magcargo-ex-dragon-95","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"muk-ex-dragon-96","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"rayquaza-ex-dragon-97","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"crawdaunt-dragon-13","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"dragonair-dragon-14","raw":"3 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"flygon-dragon-15","raw":"3 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"girafarig-dragon-16","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"magneton-dragon-17","raw":"2 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"ninjask-dragon-18","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"salamence-dragon-19","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"shelgon-dragon-20","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"skarmory-dragon-21","raw":"3 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"vibrava-dragon-22","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"bagon-dragon-23","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"camerupt-dragon-24","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"combusken-dragon-25","raw":"2 sales per week","psa10":"rare","likit":0}
+{"slug":"dratini-dragon-26","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"flaaffy-dragon-27","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"forretress-dragon-28","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"graveler-dragon-29","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"graveler-dragon-30","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"grovyle-dragon-31","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"gyarados-dragon-32","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"horsea-dragon-33","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"houndoom-dragon-34","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"magneton-dragon-35","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"marshtomp-dragon-36","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"meditite-dragon-37","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"ninjask-dragon-38","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"seadra-dragon-39","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"seadra-dragon-40","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"shelgon-dragon-41","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"shelgon-dragon-42","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"shuppet-dragon-43","raw":"2 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"snorunt-dragon-44","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"swellow-dragon-45","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"vibrava-dragon-46","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"vibrava-dragon-47","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"whiscash-dragon-48","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"balloon-berry-dragon-82","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"buffer-piece-dragon-83","raw":"2 sales per month","psa10":"3 sales per year","likit":1}
+{"slug":"energy-recycle-system-dragon-84","raw":"2 sales per month","psa10":"5 sales per year","likit":1}
+{"slug":"high-pressure-system-dragon-85","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"low-pressure-system-dragon-86","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"mr-brineys-compassion-dragon-87","raw":"2 sales per week","psa10":"6 sales per year","likit":1}
+{"slug":"tv-reporter-dragon-88","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"bagon-dragon-49","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"bagon-dragon-50","raw":"1 sale per week","psa10":"5 sales per year","likit":1}
+{"slug":"barboach-dragon-51","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"corphish-dragon-52","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"corphish-dragon-53","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"corphish-dragon-54","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"geodude-dragon-55","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"geodude-dragon-56","raw":"3 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"grimer-dragon-57","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"horsea-dragon-58","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"houndour-dragon-59","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"magikarp-dragon-60","raw":"3 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"magnemite-dragon-61","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"magnemite-dragon-62","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"magnemite-dragon-63","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"mareep-dragon-64","raw":"3 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"mudkip-dragon-65","raw":"1 sale per day","psa10":"1 sale per month","likit":1}
+{"slug":"nincada-dragon-66","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"nincada-dragon-67","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"nincada-dragon-68","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"numel-dragon-69","raw":"3 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"numel-dragon-70","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"pineco-dragon-71","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"slugma-dragon-72","raw":"3 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"spoink-dragon-73","raw":"3 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"spoink-dragon-74","raw":"2 sales per week","psa10":"5 sales per year","likit":1}
+{"slug":"swablu-dragon-75","raw":"3 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"taillow-dragon-76","raw":"2 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"torchic-dragon-77","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"trapinch-dragon-78","raw":"1 sale per day","psa10":"2 sales per year","likit":1}
+{"slug":"trapinch-dragon-79","raw":"2 sales per week","psa10":"3 sales per year","likit":1}
+{"slug":"treecko-dragon-80","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"wurmple-dragon-81","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"charmander-dragon-98","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"charmeleon-dragon-99","raw":"1 sale per week","psa10":"1 sale per week","likit":1}
+{"slug":"charizard-dragon-100","raw":"1 sale per week","psa10":"2 sales per week","likit":1}
+{"slug":"team-aquas-cacturne-team-magma-vs-team-aqua-1","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"team-aquas-crawdaunt-team-magma-vs-team-aqua-2","raw":"1 sale per week","psa10":"6 sales per year","likit":1}
+{"slug":"team-aquas-kyogre-team-magma-vs-team-aqua-3","raw":"1 sale per week","psa10":"6 sales per year","likit":1}
+{"slug":"team-aquas-manectric-team-magma-vs-team-aqua-4","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"team-aquas-sharpedo-team-magma-vs-team-aqua-5","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"team-aquas-walrein-team-magma-vs-team-aqua-6","raw":"2 sales per week","psa10":"2 sales per month","likit":1}
+{"slug":"team-magmas-aggron-team-magma-vs-team-aqua-7","raw":"2 sales per week","psa10":"1 sale per week","likit":1}
+{"slug":"team-magmas-claydol-team-magma-vs-team-aqua-8","raw":"1 sale per week","psa10":"6 sales per year","likit":1}
+{"slug":"team-magmas-groudon-team-magma-vs-team-aqua-9","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"team-magmas-houndoom-team-magma-vs-team-aqua-10","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"team-magmas-rhydon-team-magma-vs-team-aqua-11","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"team-magmas-torkoal-team-magma-vs-team-aqua-12","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"blaziken-ex-team-magma-vs-team-aqua-89","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"cradily-ex-team-magma-vs-team-aqua-90","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"entei-ex-team-magma-vs-team-aqua-91","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"raikou-ex-team-magma-vs-team-aqua-92","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"sceptile-ex-team-magma-vs-team-aqua-93","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"suicune-ex-team-magma-vs-team-aqua-94","raw":"1 sale per week","psa10":"1 sale per month","likit":1}
+{"slug":"swampert-ex-team-magma-vs-team-aqua-95","raw":"2 sales per week","psa10":"1 sale per month","likit":1}
+{"slug":"raichu-team-magma-vs-team-aqua-13","raw":"2 sales per week","psa10":"4 sales per year","likit":1}
+{"slug":"team-aquas-crawdaunt-team-magma-vs-team-aqua-14","raw":"1 sale per week","psa10":"4 sales per year","likit":1}
+{"slug":"team-aquas-mightyena-team-magma-vs-team-aqua-15","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-aquas-sealeo-team-magma-vs-team-aqua-16","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-aquas-seviper-team-magma-vs-team-aqua-17","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"team-aquas-sharpedo-team-magma-vs-team-aqua-18","raw":"1 sale per week","psa10":"2 sales per month","likit":1}
+{"slug":"team-magmas-camerupt-team-magma-vs-team-aqua-19","raw":"1 sale per week","psa10":"2 sales per year","likit":1}
+{"slug":"team-magmas-lairon-team-magma-vs-team-aqua-20","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"team-magmas-mightyena-team-magma-vs-team-aqua-21","raw":"1 sale per week","psa10":"6 sales per year","likit":1}
+{"slug":"team-magmas-rhydon-team-magma-vs-team-aqua-22","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-magmas-zangoose-team-magma-vs-team-aqua-23","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"double-rainbow-energy-team-magma-vs-team-aqua-88","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"team-aquas-cacnea-team-magma-vs-team-aqua-24","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-aquas-carvanha-team-magma-vs-team-aqua-25","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"team-aquas-corphish-team-magma-vs-team-aqua-26","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"team-aquas-electrike-team-magma-vs-team-aqua-27","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-aquas-lanturn-team-magma-vs-team-aqua-28","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"team-aquas-manectric-team-magma-vs-team-aqua-29","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-aquas-mightyena-team-magma-vs-team-aqua-30","raw":"2 sales per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-aquas-sealeo-team-magma-vs-team-aqua-31","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-magmas-baltoy-team-magma-vs-team-aqua-32","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"team-magmas-claydol-team-magma-vs-team-aqua-33","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-magmas-houndoom-team-magma-vs-team-aqua-34","raw":"3 sales per week","psa10":"2 sales per year","likit":1}
+{"slug":"team-magmas-houndour-team-magma-vs-team-aqua-35","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-magmas-lairon-team-magma-vs-team-aqua-36","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-magmas-mightyena-team-magma-vs-team-aqua-37","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-magmas-rhyhorn-team-magma-vs-team-aqua-38","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"archie-team-magma-vs-team-aqua-71","raw":"1 sale per month","psa10":"1 sale per year","likit":0}
+{"slug":"dual-ball-team-magma-vs-team-aqua-72","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"maxie-team-magma-vs-team-aqua-73","raw":"2 sales per month","psa10":"rare","likit":0}
+{"slug":"strength-charm-team-magma-vs-team-aqua-74","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"team-aqua-ball-team-magma-vs-team-aqua-75","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-aqua-belt-team-magma-vs-team-aqua-76","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"team-aqua-conspirator-team-magma-vs-team-aqua-77","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
+{"slug":"team-aqua-hideout-team-magma-vs-team-aqua-78","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"team-aqua-technical-machine-01-team-magma-vs-team-aqua-79","raw":"6 sales per year","psa10":"rare","likit":0}
+{"slug":"team-magma-ball-team-magma-vs-team-aqua-80","raw":"1 sale per week","psa10":"rare","likit":0}
+{"slug":"team-magma-belt-team-magma-vs-team-aqua-81","raw":"1 sale per month","psa10":"4 sales per year","likit":1}
+{"slug":"team-magma-conspirator-team-magma-vs-team-aqua-82","raw":"1 sale per week","psa10":"1 sale per year","likit":0}
+{"slug":"team-magma-hideout-team-magma-vs-team-aqua-83","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"team-magma-technical-machine-01-team-magma-vs-team-aqua-84","raw":"1 sale per month","psa10":"rare","likit":0}
+{"slug":"warp-point-team-magma-vs-team-aqua-85","raw":"2 sales per month","psa10":"1 sale per year","likit":0}
