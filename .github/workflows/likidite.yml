@@ -32,6 +32,7 @@ jobs:
         run: python3 araclar/likidite_tara.py 6000
 
       - name: Bittiyse bu workflow'u kaldir
+        if: always()
         run: |
           if [ -f veri/likidite/TAMAM ]; then
             git rm .github/workflows/likidite.yml
@@ -39,6 +40,7 @@ jobs:
           fi
 
       - name: Ilerlemeyi commit et
+        if: always()
         run: |
           git add -A
           git commit -m "likidite ilerleme: $(date -u '+%F %H:%M')" || echo "degisiklik yok"

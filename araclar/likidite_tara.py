@@ -80,18 +80,34 @@ try:
         uri = pcuri.get((e['f'], e['pn'])) if e else None
         if not uri:
             durum.add(slug); continue   # PC'de yok → likit değil sayılır (kayıt yazılmaz)
+
+        # --- sayfayı getir: geçici ağ hatalarında ASLA çökme, kaldığın yerden devam et ---
         html = None
+        bulunamadi = True   # her konsolda temiz 404 → kart gerçekten yok (kalıcı, likit değil)
         for kons in konsollar(e['f']):
-            try:
-                html = cek(f'https://www.pricecharting.com/game/{urllib.request.quote(kons)}/{urllib.request.quote(uri)}')
+            url = f'https://www.pricecharting.com/game/{urllib.request.quote(kons)}/{urllib.request.quote(uri)}'
+            for deneme in range(3):                     # aynı konsolu geçici hatada 3 kez dene
+                try:
+                    html = cek(url)
+                    break
+                except urllib.error.HTTPError as ex:
+                    if ex.code == 404:
+                        break                           # bu konsolda yok → sıradaki konsola geç
+                    bulunamadi = False                  # 429 / 5xx: geçici sunucu durumu
+                    time.sleep(30 if ex.code == 429 else 5)
+                except Exception:                       # timeout / bağlantı kopması / DNS: geçici
+                    bulunamadi = False
+                    time.sleep(5)
+            if html is not None:
                 break
-            except urllib.error.HTTPError as ex:
-                if ex.code == 404: continue
-                if ex.code == 429: time.sleep(28); continue
-                raise
         time.sleep(DELAY)
         if html is None:
-            hata += 1; durum.add(slug); continue
+            if bulunamadi:
+                durum.add(slug)                         # gerçekten hiçbir konsolda yok → işaretle, bir daha bakma
+            else:
+                hata += 1                               # geçici hata → İŞARETLEME; sonraki koşuda tekrar denenir
+            continue
+
         raw_v = hacim_coz(html, 'completed-auctions-used')
         psa_v = hacim_coz(html, 'completed-auctions-graded')
         likit = 1 if (likit_mi(raw_v) and likit_mi(psa_v)) else 0
