@@ -319,11 +319,6 @@ const ARAC_SAYFALARI = {
     t: 'Pokemon Kart Fiyatları — Güncel TL Değerleri | Kartist',
     d: 'Tüm Pokemon TCG kartlarının güncel Türkiye fiyatları. 17.000+ kart, PriceCharting verisiyle günlük güncellenen TL değerleri. Ücretsiz fiyat arama.'
   },
-  'en-ucuz': {
-    v: 'Cheapest',
-    t: 'En Ucuz Pokemon Kartları ve Ürünleri | Kartist',
-    d: 'Türkiye\'deki en uygun fiyatlı Pokemon kart ve ürünlerini bul. Mağaza fiyatları karşılaştırmalı, güncel en ucuz fırsatlar tek sayfada.'
-  },
   'paket-ac': {
     v: 'Ripper',
     t: 'Pokemon Paket Açma Simülatörü (Ücretsiz) | Kartist',
@@ -363,7 +358,7 @@ const ARAC_SAYFALARI = {
 
 // --- CSP (guvenlik) su an TEST modu (Report-Only): sadece tarayici konsoluna raporlar, HICBIR SEYI ENGELLEMEZ.
 // Birkac gun konsol temizse, asagidaki CSP_HEADER'i 'content-security-policy' yaparak gercekten devreye al.
-const CSP = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https: data:; connect-src 'self' https://api.frankfurter.app https://api.pokemontcg.io https://open.er-api.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'";
+const CSP = "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https: data:; connect-src 'self' https://cloudflareinsights.com https://api.frankfurter.app https://api.pokemontcg.io https://open.er-api.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; object-src 'none'";
 const CSP_HEADER = 'content-security-policy-report-only';
 export default {
   async fetch(request, env){
