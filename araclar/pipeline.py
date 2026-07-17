@@ -178,11 +178,25 @@ def turevler(cards):
     json.dump(borsa, open(os.path.join(W, 'public', 'borsa.json'), 'w'), ensure_ascii=False)
     log(f"borsa.json: aday {len(aday)}, yükselen ilk: "
         f"{yuk[0]['n'] if yuk else '-'} %{yuk[0]['dp'] if yuk else 0}")
-    # PSA aracı verisi: PSA10 fiyatı olan ve anlamlı büyüklükteki kartlar
+    # PSA aracı verisi: PSA10 fiyatı olan, anlamlı büyüklükte VE likit kartlar.
+    # Likidite: veri/likidite/ham.jsonl (raw VE psa10 yılda >=2 satış → likit:1).
+    # Dosya yoksa/boşsa filtre uygulanmaz (eski davranış korunur).
+    likit = set()
+    lyol = os.path.join(VERI, 'likidite', 'ham.jsonl')
+    if os.path.exists(lyol):
+        for satir in open(lyol, encoding='utf-8'):
+            try:
+                o = json.loads(satir)
+            except ValueError:
+                continue
+            if o.get('likit') == 1:
+                likit.add(o['slug'])
+    if likit: log(f'likidite filtresi: {len(likit)} likit kart')
     psa = []
     for slug, v in cards.items():
         if len(v) < 11 or v[8] is None or v[2] is None: continue
         if v[8] < 1000: continue
+        if likit and slug not in likit: continue
         psa.append([slug, v[0], v[1], v[4], v[6], v[2], v[8], v[9]])
     psa.sort(key=lambda r: -(r[6] - r[5]))
     psa = psa[:6000]
