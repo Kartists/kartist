@@ -51,9 +51,6 @@ jobs:
       - name: Fiyat pipeline (TL donusum + site dosyalari + borsa/psa)
         run: python3 araclar/pipeline.py
 
-      - name: En Ucuzu Bul tazeleme (basarisizsa eski degerler kalir)
-        run: python3 araclar/eub_refresh.py || echo "EUB adimi atlandi"
-
       - name: Gunun sosyal gorseli
         run: python3 araclar/sosyal_gorsel.py || echo "gorsel adimi atlandi"
 
