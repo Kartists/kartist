@@ -241,6 +241,27 @@ def kutu_guncelle(borsa, psa_kartlar):
     open(INDEX, 'w', encoding='utf-8').write(h)
     log(f'ana sayfa kutuları: borsa {len(bs)}, psa {len(ps)} satır')
 
+
+# --- 6d. Set tamamlama verisi: setler.json ---
+def setler_uret(cards):
+    from collections import defaultdict
+    gruplar = defaultdict(list)
+    meta = {}
+    for slug, v in cards.items():
+        ss = v[5]
+        gruplar[ss].append((slug, v[0], v[1], v[3], v[2]))   # slug, ad, num, rarity, tl
+        meta[ss] = (v[6], v[7], v[4])                          # setName, year, sid
+    out = []
+    for ss, kartlar in gruplar.items():
+        ad, yil, sid = meta[ss]
+        kartlar.sort(key=lambda x: -(x[4] or 0))              # pahali ustte
+        out.append({'s': ss, 'a': ad, 'y': yil, 'i': sid,
+                    'k': [[k[0], k[1], k[2], k[3], k[4]] for k in kartlar]})
+    out.sort(key=lambda z: sum((x[4] or 0) for x in z['k']))  # ucuzdan pahaliya
+    json.dump(out, open(os.path.join(W, 'public', 'setler.json'), 'w'),
+              ensure_ascii=False, separators=(',', ':'))
+    log(f'setler.json: {len(out)} set, {sum(len(z["k"]) for z in out)} kart')
+
 # ── 7. Sağlamalar ────────────────────────────────────────────────────────
 def kontrol():
     r = subprocess.run(['node', '--check', WORKER_JS], capture_output=True, text=True)
@@ -265,6 +286,7 @@ def main():
     borsa, psa = turevler(cards)
     kur_enjekte(kur)
     kutu_guncelle(borsa, psa)
+    setler_uret(cards)
     kontrol()
     log(f'BİTTİ — {degisen} kart fiyatı güncellendi')
 
