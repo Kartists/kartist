@@ -146,6 +146,25 @@ def set_sayfalari(cards):
     rx_ct = re.compile(r'(<td class="ct-name"><a href="https://kartist\.com\.tr/kart/([a-z0-9\-]+)">(?:(?!</tr>).)*?<td class="ct-price">)([^<]*)( ₺)', re.DOTALL)
     rx_en = re.compile(r'En değerli: .*? [\d.,]+ ₺')
     rx_chase = re.compile(r'(class="chase">⭐ En değerli kart: ).*?( [\d.,]+ ₺)(</div>)')
+    # r12: "En Değerli Kartlar" tablosunu her gece YENİDEN ÜRET.
+    # (Eskiden sadece fiyat rakamları yamalanıyordu; kart seçimi sayfa ilk
+    #  üretildiği günden kalma ve yanlıştı — 119 sayfanın 107'si hatalıydı.)
+    rx_tbody = re.compile(r'(<table class="ctable"><thead>.*?</thead><tbody>)(.*?)(</tbody></table>)', re.DOTALL)
+    set_kartlari = {}
+    for _sl, _v in cards.items():
+        set_kartlari.setdefault(_v[5], []).append((_sl, _v[0], _v[1], _v[2]))
+
+    def en_satirlar(kartlar, n=6):
+        ust = sorted(kartlar, key=lambda x: -(x[3] or 0))[:n]
+        pr = []
+        for cslug, ad, num, tl in ust:
+            adx = str(ad).replace('&', '&amp;').replace('<', '&lt;')
+            fy = (tl_goster(tl) + ' ₺') if tl is not None else '—'
+            pr.append('<tr><td class="ct-name"><a href="https://kartist.com.tr/kart/' + cslug + '">'
+                      + adx + '</a></td><td class="ct-num">#' + str(num) + '</td>'
+                      + '<td class="ct-price">' + fy + '</td></tr>')
+        return ''.join(pr)
+
     say = 0
     for st in sets:
         yol = os.path.join(W, 'public', st + '.html')
@@ -156,6 +175,8 @@ def set_sayfalari(cards):
             return m.group(1) + (tl_goster(tl) if tl is not None else m.group(3)) + m.group(4)
         s2 = rx_cl.sub(rep, s)
         s2 = rx_ct.sub(rep, s2)
+        if st in set_kartlari:
+            s2 = rx_tbody.sub(lambda m: m.group(1) + en_satirlar(set_kartlari[st]) + m.group(3), s2, count=1)
         if st in enler:
             ad, tl = enler[st]
             s2 = rx_en.sub(lambda m, a=ad, t=tl: f'En değerli: {a} {tl_goster(t)} ₺', s2)
