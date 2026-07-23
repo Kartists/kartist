@@ -251,11 +251,11 @@ def kutu_guncelle(borsa, psa_kartlar):
     bs = []
     for k in borsa['yukselen'][:3]:
         bs.append(f'<div class="mg-mini-row"><span>{kisa(k["n"])}</span><b class="up">▲ %' + f'{abs(k["dp"]):.1f}'.replace('.', ',') + '</b></div>')
-    for k in borsa['dusen'][:2]:
+    for k in borsa['dusen'][:3]:
         bs.append(f'<div class="mg-mini-row"><span>{kisa(k["n"])}</span><b class="roi-neg">▼ %' + f'{abs(k["dp"]):.1f}'.replace('.', ',') + '</b></div>')
     if bs: yaz('mg-borsa-rows', bs)
     ps = []
-    for r in psa_kartlar[:5]:
+    for r in psa_kartlar[:6]:
         fark = r[6] - r[5]
         ps.append(f'<div class="mg-mini-row"><span>{kisa(r[1] + " #" + str(r[2]), 17)}</span><b class="up">+' + tl_goster(fark) + ' ₺</b></div>')
     if ps: yaz('mg-psa-rows', ps)
@@ -282,6 +282,21 @@ def setler_uret(cards):
     json.dump(out, open(os.path.join(W, 'public', 'setler.json'), 'w'),
               ensure_ascii=False, separators=(',', ':'))
     log(f'setler.json: {len(out)} set, {sum(len(z["k"]) for z in out)} kart')
+
+    # ana sayfa "Set Tamamlama" kutusu: en ucuz tamamlanan 3 set
+    # (out zaten ucuzdan pahalıya sıralı — kutu her gece kendi güncellensin)
+    hh = open(INDEX, encoding='utf-8').read()
+    rx_sk = re.compile(r'(<div class="mg-mini-rows" id="mg-setler-rows">).*?(</div><!--/setler-rows-->)', re.DOTALL)
+    if rx_sk.search(hh):
+        sat = []
+        for z in out[:3]:
+            ad = z['a'] if len(z['a']) <= 19 else z['a'][:18] + '…'
+            tp = sum((x[4] or 0) for x in z['k'])
+            sat.append(f'<div class="mg-mini-row"><span>{ad}</span>'
+                       f'<b class="up">{tl_goster(tp)} ₺</b></div>')
+        hh = rx_sk.sub(lambda m: m.group(1) + ''.join(sat) + m.group(2), hh, count=1)
+        open(INDEX, 'w', encoding='utf-8').write(hh)
+        log('set tamamlama kutusu: en ucuz 3 set yazıldı')
 
 # ── 7. Sağlamalar ────────────────────────────────────────────────────────
 def kontrol():
