@@ -150,6 +150,10 @@ def set_sayfalari(cards):
     # (Eskiden sadece fiyat rakamları yamalanıyordu; kart seçimi sayfa ilk
     #  üretildiği günden kalma ve yanlıştı — 119 sayfanın 107'si hatalıydı.)
     rx_tbody = re.compile(r'(<table class="ctable"><thead>.*?</thead><tbody>)(.*?)(</tbody></table>)', re.DOTALL)
+    # r15: yeni Mega Evolution setlerinin görselleri pokemontcg.io'da yok (kartın arkası çıkıyor);
+    # scrydex CDN'ine çevir — sayfalar her gece kendini onarsın
+    rx_gorsel = re.compile(r'https://images\.pokemontcg\.io/(me2pt5|me3|me4)/([0-9A-Za-z_\-]+)\.png')
+    rx_gorsel2 = re.compile(r'https://images\.scrydex\.com/pokemon/(me2pt5|me3|me4)-([0-9A-Za-z_\-]+)/large')
     set_kartlari = {}
     for _sl, _v in cards.items():
         set_kartlari.setdefault(_v[5], []).append((_sl, _v[0], _v[1], _v[2]))
@@ -177,6 +181,8 @@ def set_sayfalari(cards):
         s2 = rx_ct.sub(rep, s2)
         if st in set_kartlari:
             s2 = rx_tbody.sub(lambda m: m.group(1) + en_satirlar(set_kartlari[st]) + m.group(3), s2, count=1)
+        s2 = rx_gorsel.sub(lambda m: f'https://images.scrydex.com/pokemon/{m.group(1)}-{m.group(2)}/small', s2)
+        s2 = rx_gorsel2.sub(lambda m: f'https://images.scrydex.com/pokemon/{m.group(1)}-{m.group(2)}/small', s2)
         if st in enler:
             ad, tl = enler[st]
             s2 = rx_en.sub(lambda m, a=ad, t=tl: f'En değerli: {a} {tl_goster(t)} ₺', s2)
