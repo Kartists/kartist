@@ -190,6 +190,46 @@
 .stl-say{color:var(--muted);font-size:13px;margin:-2px 0 6px 2px;}
 .stl-say a{color:var(--cyan);text-decoration:none;}
 .stl-say a:hover{text-decoration:underline;}
+/* === r17: Set Placeholder kutusu — A4 çıktı görseli ================ */
+.mg-b.mg-b-print{display:grid;grid-template-columns:auto 1fr;column-gap:40px;align-items:center;}
+.mg-b-print .mg-b-eyebrow{grid-column:1 / -1;color:var(--purple);}
+.mg-b-print .mg-b-stat{grid-column:1 / -1;}
+.phb-kagit{position:relative;width:232px;height:212px;flex:0 0 auto;}
+.phb-sayfa{position:absolute;background:#fbfbf8;border-radius:3px;box-shadow:0 14px 26px -12px rgba(0,0,0,.85);}
+.phb-sayfa.arka{width:158px;height:200px;left:16px;top:8px;transform:rotate(-6deg);background:#e9e9e4;}
+.phb-sayfa.on{width:166px;height:208px;left:56px;top:0;transform:rotate(3deg);padding:8px;border:1px solid rgba(0,0,0,.14);}
+.phb-grid{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);width:100%;height:100%;}
+.phb-c{border:0.5px dashed #b9b9b2;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;padding:2px 1.5px;overflow:hidden;}
+.phb-n{font-family:Arial,sans-serif;font-size:4.6px;color:#555;align-self:flex-start;line-height:1;}
+.phb-ad{font-family:Arial,sans-serif;font-size:5.4px;font-weight:700;color:#111;line-height:1;margin-bottom:.5px;text-align:center;}
+.phb-i{flex:1;display:flex;align-items:center;justify-content:center;width:100%;overflow:hidden;}
+.phb-i img{max-width:92%;max-height:100%;object-fit:contain;display:block;}
+.phb-t{font-family:Arial,sans-serif;font-size:4.2px;color:#666;line-height:1;}
+.phb-kagit:after{content:'\2702';position:absolute;right:4px;bottom:8px;font-size:22px;color:var(--purple);opacity:.85;transform:rotate(-14deg);}
+.phb-sag{display:flex;flex-direction:column;gap:9px;min-width:0;}
+.phb-lead{font-family:'Quicksand',sans-serif;font-weight:800;font-size:clamp(19px,2.1vw,25px);line-height:1.25;color:var(--ink);}
+.phb-lead b{color:var(--purple);}
+.mg-b-print .mg-mini-row b{color:var(--purple);}
+@media (max-width:760px){
+  .mg-b.mg-b-print{grid-template-columns:1fr;row-gap:18px;justify-items:center;}
+  .phb-kagit{transform:scale(.92);}
+}
+/* === r17: Set Placeholder — görsel türü seçimi ===================== */
+.ph-mod-wrap{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:-14px 0 26px;}
+.ph-mod-lbl{color:var(--muted);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;}
+.ph-mod{font-family:'Inter',sans-serif;font-weight:700;font-size:13px;color:var(--ink-dim);background:var(--bg-2);border:1px solid var(--card-line);border-radius:999px;padding:7px 14px;cursor:pointer;transition:.15s;}
+.ph-mod:hover{color:var(--ink);border-color:var(--purple);}
+.ph-mod.on{color:#fff;background:var(--purple);border-color:var(--purple);}
+.ph-mod-not{color:var(--muted);font-size:12.5px;margin-left:2px;}
+/* kart görseli modu — ekran önizlemesi */
+.ph-card-preview.kart{padding:0;border-color:rgba(181,102,255,.4);position:relative;overflow:hidden;}
+.ph-card-preview.kart img{width:100%;height:auto;display:block;margin:0;border-radius:5px;}
+.ph-card-preview.kart .num{position:absolute;left:0;right:0;bottom:0;background:rgba(0,0,0,.6);color:#fff;font-size:10px;padding:2px 0;}
+@media print{
+  /* kart görseli modu — baskıda kartı tam doldur */
+  .ph-pcard.kart{padding:0 !important;border:1px solid #000 !important;overflow:hidden;}
+  .ph-pcard.kart img{width:100%;height:100%;object-fit:cover;display:block;}
+}
 /* === r16: menüde 9 araç var — sığması için hafif sıkıştırma ============ */
 .mg-nav{max-width:76%;}
 .mg-nav a{padding:8px 11px;}
@@ -2653,12 +2693,8 @@ header{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:18px
 .mg-b-guide{order:5;grid-column:span 6;min-height:300px;padding:22px 20px 18px;}
 .mg-b-pev{order:6;grid-column:span 6;min-height:300px;padding:22px 20px 18px;}
 .mg-b-print{order:7;grid-column:span 6;min-height:300px;padding:22px 20px 18px;}
-.mg-b-print .mg-print-head{text-align:left;}
-.mg-b-print .mg-print-sub{text-align:left;margin-bottom:6px;}
-.mg-b-print .mg-print-split{flex-direction:row;align-items:center;gap:18px;margin-top:14px;}
-.mg-b-print .mg-binder{flex:0 0 140px;}
-.mg-b-print .mg-print-body{flex:1;justify-content:center;}
-.mg-b-print .mg-print-body .mg-b-desc{text-align:left;font-size:13.5px;max-width:none;}
+.mg-b-print .mg-b-print .mg-print-sub{text-align:left;margin-bottom:6px;}
+.mg-b-print .mg-b-print .mg-b-print .mg-b-print .mg-print-body .mg-b-desc{text-align:left;font-size:13.5px;max-width:none;}
 .mg-b-pev .mg-b-eyebrow,.mg-b-vendors .mg-b-eyebrow,.mg-b-guide .mg-b-eyebrow,.mg-b-print .mg-b-eyebrow{font-size:clamp(18px,1.8vw,22px);}
 /* kart fiyatları içi */
 .mg-b-price .mg-b-body{flex:1;display:flex;flex-direction:column;gap:10px;}
@@ -2727,9 +2763,7 @@ header{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:18px
 .mg-b-print .mg-print-body .mg-b-desc{text-align:center;}
 .mg-b-print > .mg-b-stat{text-align:center;}
 .mg-binder{flex:0 0 132px;display:grid;grid-template-columns:repeat(3,1fr);gap:5px;background:rgba(7,6,15,.4);border:0.5px solid rgba(62, 240, 238,.2);border-radius:8px;padding:6px;}
-.mg-bcell{aspect-ratio:63/88;border-radius:4px;overflow:hidden;display:flex;align-items:center;justify-content:center;}
 .mg-bcell img{width:100%;height:100%;object-fit:cover;display:block;}
-.mg-bcell.ph{background:#fff;border:1px solid #ccc;flex-direction:column;padding:2px 3px;gap:0;overflow:hidden;}
 .mg-bcell.ph .ph-num{width:100%;font-size:6px;font-family:'JetBrains Mono',monospace;color:#666;line-height:1;margin-bottom:1px;}
 .mg-bcell.ph .ph-name{font-size:7px;font-family:'Inter',sans-serif;font-weight:700;color:#111;text-align:center;line-height:1.2;margin-bottom:2px;}
 .mg-bcell.ph .ph-img{flex:1;display:flex;align-items:center;justify-content:center;width:100%;overflow:hidden;}
@@ -3131,24 +3165,18 @@ header{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:18px
         </div>
         </a>
 
-      <!-- BASKI ŞABLONU — mini 3×3 -->
+      <!-- SET PLACEHOLDER — A4 çıktı şablonu -->
       <a href="#" class="mg-b mg-b-print" onclick="mgGo('Placeholder');return false;">
-        <div class="mg-print-split">
-          <div class="mg-binder">
-            <div class="mg-bcell"><img src="https://images.pokemontcg.io/base1/4.png" alt="" loading="lazy"></div>
-            <div class="mg-bcell ph"><div class="ph-num">#006</div><div class="ph-name">Charizard ex</div><div class="ph-img"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" alt="" loading="lazy"></div><div class="ph-type">Fire</div><div class="ph-set">151</div></div>
-            <div class="mg-bcell"><img src="https://images.pokemontcg.io/swsh7/215.png" alt="" loading="lazy"></div>
-            <div class="mg-bcell ph"><div class="ph-num">#025</div><div class="ph-name">Pikachu</div><div class="ph-img"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="" loading="lazy"></div><div class="ph-type">Lightning</div><div class="ph-set">151</div></div>
-            <div class="mg-bcell"><img src="https://images.pokemontcg.io/sv3pt5/151.png" alt="" loading="lazy"></div>
-            <div class="mg-bcell ph"><div class="ph-num">#199</div><div class="ph-name">Charizard ex</div><div class="ph-img"><img src="https://images.pokemontcg.io/sv3pt5/199.png" alt="" loading="lazy"></div><div class="ph-type">Fire</div><div class="ph-set">151</div></div>
-            <div class="mg-bcell ph"><div class="ph-num">#143</div><div class="ph-name">Snorlax</div><div class="ph-img"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png" alt="" loading="lazy"></div><div class="ph-type">Colorless</div><div class="ph-set">151</div></div>
-            <div class="mg-bcell"><img src="https://images.pokemontcg.io/base1/58.png" alt="" loading="lazy"></div>
-            <div class="mg-bcell ph"><div class="ph-num">#001</div><div class="ph-name">Bulbasaur</div><div class="ph-img"><img src="https://images.pokemontcg.io/sv3pt5/1.png" alt="" loading="lazy"></div><div class="ph-type">Grass</div><div class="ph-set">151</div></div>
-          </div>
-          <div class="mg-print-body">
-            <div class="mg-b-eyebrow mg-print-head">Set Placeholder</div>
-          </div>
+        <div class="mg-b-eyebrow">Set Placeholder</div>
+        <div class="phb-kagit">
+          <div class="phb-sayfa arka"></div>
+          <div class="phb-sayfa on"><div class="phb-grid"><div class="phb-c"><div class="phb-n">#006</div><div class="phb-ad">Charizard</div><div class="phb-i"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" alt="" loading="lazy"></div><div class="phb-t">Fire</div></div><div class="phb-c"><div class="phb-n">#025</div><div class="phb-ad">Pikachu</div><div class="phb-i"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="" loading="lazy"></div><div class="phb-t">Lightning</div></div><div class="phb-c"><div class="phb-n">#001</div><div class="phb-ad">Bulbasaur</div><div class="phb-i"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" alt="" loading="lazy"></div><div class="phb-t">Grass</div></div><div class="phb-c"><div class="phb-n">#143</div><div class="phb-ad">Snorlax</div><div class="phb-i"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png" alt="" loading="lazy"></div><div class="phb-t">Colorless</div></div><div class="phb-c"><div class="phb-n">#151</div><div class="phb-ad">Mew</div><div class="phb-i"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png" alt="" loading="lazy"></div><div class="phb-t">Psychic</div></div><div class="phb-c"><div class="phb-n">#197</div><div class="phb-ad">Umbreon</div><div class="phb-i"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png" alt="" loading="lazy"></div><div class="phb-t">Darkness</div></div><div class="phb-c"><div class="phb-n">#094</div><div class="phb-ad">Gengar</div><div class="phb-i"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" alt="" loading="lazy"></div><div class="phb-t">Psychic</div></div><div class="phb-c"><div class="phb-n">#009</div><div class="phb-ad">Blastoise</div><div class="phb-i"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png" alt="" loading="lazy"></div><div class="phb-t">Water</div></div><div class="phb-c"><div class="phb-n">#448</div><div class="phb-ad">Lucario</div><div class="phb-i"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png" alt="" loading="lazy"></div><div class="phb-t">Fighting</div></div></div></div>
         </div>
+        <div class="phb-sag">
+          <div class="phb-lead">Eksik kartların <b>yerini tut</b></div>
+          <div class="mg-mini-rows" id="mg-print-rows"><div class="mg-mini-row"><span>Perfect Order</span><b>124 kart</b></div><div class="mg-mini-row"><span>Chaos Rising</span><b>122 kart</b></div><div class="mg-mini-row"><span>Ascended Heroes</span><b>295 kart</b></div></div><!--/print-rows-->
+        </div>
+        <div class="mg-b-stat mg-b-stat-center">En yeni setler · 119 set · sayfada 9 kart · yazdır, kes, klasöre yerleştir</div>
       </a>
 
       <!-- KART BORSASI — günün yükselen kartları (gece otomatik yenilenir) -->
@@ -4273,7 +4301,7 @@ document.addEventListener('keydown',function(e){ if(e.key==='Escape') prCloseMod
   <div class="page-head" style="padding:40px 0 4px;max-width:none;">
     <div class="page-head-name">Set Placeholder</div>
     <div class="page-head-sub">Binder'daki eksiklerin yer tutucusu</div>
-    <p class="page-head-desc">Bir set seç, yükle, sonra <strong>Yazdır / PDF Kaydet</strong>'e bas. Tarayıcı baskı penceresinde "PDF olarak kaydet" seçersen direkt PDF alırsın. Kağıt: A4, 3×3 grid, sayfa başına 9 kart.</p>
+    <p class="page-head-desc">Bir set seç, yükle, sonra <strong>Yazdır / PDF Kaydet</strong>'e bas. Tarayıcı baskı penceresinde "PDF olarak kaydet" seçersen direkt PDF alırsın. Kağıt: A4, 3×3 grid, sayfa başına 9 kart. İki görsel türü var: <strong>Pokémon çizimi</strong> (sade yer tutucu) veya <strong>kart görseli</strong> (vekil kart).</p>
       <div class="data-badge"><span class="dot"></span>Kartlar <b>pokemontcg.io</b>'dan · görseller PokeAPI</div>
   </div>
 
@@ -4333,6 +4361,13 @@ document.addEventListener('keydown',function(e){ if(e.key==='Escape') prCloseMod
     </button>
   </div>
 
+  <div class="ph-mod-wrap">
+    <span class="ph-mod-lbl">Görsel türü</span>
+    <button class="ph-mod on" id="ph-mod-pokemon" onclick="phSetMod('pokemon')">Pokémon çizimi</button>
+    <button class="ph-mod" id="ph-mod-kart" onclick="phSetMod('kart')">Kart görseli</button>
+    <span class="ph-mod-not" id="ph-mod-not">Ad, numara ve tip yazılı sade yer tutucu</span>
+  </div>
+
   <div class="ph-progress" id="ph-progress">
     <div class="ph-progress-bar" id="ph-progress-bar" style="width:0%"></div>
   </div>
@@ -4362,6 +4397,8 @@ var SET_NAMES = {
 };
 
 var currentCards = [];
+var currentSid = '';
+var phMod = 'pokemon';   /* r17: 'pokemon' = resmi çizim, 'kart' = kartın kendi görseli */
 
 document.getElementById('ph-set-select').addEventListener('change', function(){
   document.getElementById('ph-load-btn').disabled = !this.value;
@@ -4411,6 +4448,7 @@ window.phLoadSet = function(){
       document.getElementById('ph-progress-bar').style.width = '70%';
       document.getElementById('ph-status').textContent = currentCards.length + ' kart bulundu. Önizleme oluşturuluyor…';
 
+      currentSid = sid;
       buildPreview(currentCards, sid);
       buildPrintSheets(currentCards, sid);
 
@@ -4432,20 +4470,30 @@ window.phLoadSet = function(){
     });
 };
 
-function getImgSrc(c){
+function getImgSrc(c, forPrint){
+  var im = c.images || {};
+  /* r17: "Kart görseli" seçilirse kartın kendi resmi (baskıda yüksek çözünürlüklü) */
+  if(phMod === 'kart') return (forPrint ? (im.large || im.small) : (im.small || im.large)) || '';
   /* Pokemon kartı → PokeAPI resmi çizim */
   var dex = c.nationalPokedexNumbers;
   if(dex && dex.length > 0){
     return 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/' + dex[0] + '.png';
   }
   /* Trainer / Energy → tam kart görseli */
-  return (c.images && c.images.small) ? c.images.small : '';
+  return im.small || '';
 }
 
 function cardHTML(c, setName, forPrint){
   var types = (c.types||[]).join(', ') || (c.supertype||'');
-  var imgSrc = getImgSrc(c);
+  var imgSrc = getImgSrc(c, forPrint);
   var numStr = '#' + c.number;
+
+  /* r17: kart görseli modu — kartın kendisi yer tutucu olur, kenarlık dışında yazı yok */
+  if(phMod === 'kart'){
+    var alt = escapeHtml(c.name) + ' ' + numStr;
+    if(forPrint) return '<div class=\'ph-pcard kart\'>' + (imgSrc ? '<img src="'+imgSrc+'" alt="'+alt+'" loading="eager">' : '<div class="pnum">'+numStr+'</div><div class="pname">'+escapeHtml(c.name)+'</div>') + '</div>';
+    return '<div class=\'ph-card-preview kart\'>' + (imgSrc ? '<img src="'+imgSrc+'" alt="'+alt+'" loading="lazy">' : '<div class="cname">'+escapeHtml(c.name)+'</div>') + '<div class="num">'+numStr+'</div></div>';
+  }
 
   if(forPrint){
     return '<div class="ph-pcard">' +
@@ -4464,6 +4512,22 @@ function cardHTML(c, setName, forPrint){
       '</div>';
   }
 }
+
+window.phSetMod = function(m){
+  if(phMod === m) return;
+  phMod = m;
+  var a = document.getElementById('ph-mod-pokemon'), b = document.getElementById('ph-mod-kart');
+  if(a) a.classList.toggle('on', m === 'pokemon');
+  if(b) b.classList.toggle('on', m === 'kart');
+  var not = document.getElementById('ph-mod-not');
+  if(not) not.textContent = (m === 'kart')
+    ? 'Kartın kendi görseli — kesince vekil (proxy) kart olur'
+    : 'Ad, numara ve tip yazılı sade yer tutucu';
+  if(currentCards.length){
+    buildPreview(currentCards, currentSid);
+    buildPrintSheets(currentCards, currentSid);
+  }
+};
 
 function buildPreview(cards, sid){
   var preview = cards.slice(0,9);
