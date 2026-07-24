@@ -184,6 +184,12 @@
 @media (max-width:900px){.mg-b-setler{grid-column:span 6;}}
 @media (max-width:760px){.mg-b-setler{grid-column:span 12;}.stl-d-head{flex-direction:column;}.stl-d-tot{text-align:left;}}
 
+.stl-ara{margin-bottom:18px;}
+.stl-ara input{max-width:520px;}
+.stl-ara input:focus{border-color:var(--green);}
+.stl-say{color:var(--muted);font-size:13px;margin:-2px 0 6px 2px;}
+.stl-say a{color:var(--cyan);text-decoration:none;}
+.stl-say a:hover{text-decoration:underline;}
 /* === r12: ana sayfa tek sütun — her kutu tam genişlik ================= */
 .mg-b-setler .stl-box-split{display:grid;grid-template-columns:auto 1fr;gap:34px;align-items:center;margin-top:6px;}
 .stl-bind{display:grid;grid-template-columns:repeat(3,58px);gap:9px;}
@@ -7034,12 +7040,15 @@ function psRender(){
 (function(){
   var SETLER = null, stlYuk = false;
   var stlMult = 1, stlSort = 'ucuz', stlAcik = null;
+  var stlAra = '', stlAraSet = '';
   var stlSahip = (function(){ try { return new Set(JSON.parse(localStorage.getItem('kartist_sahip')||'[]')); } catch(e){ return new Set(); } })();
-  function stlKaydet(){ try { localStorage.setItem('kartist_sahip', JSON.stringify(Array.prototype.slice.call(stlSahip.values ? Array.from(stlSahip) : []))); } catch(e){} }
+  function stlKaydet(){ try { localStorage.setItem('kartist_sahip', JSON.stringify(Array.from(stlSahip))); } catch(e){} }
   function stlTL(x){ x = x*stlMult; return (x>=1000 ? Math.round(x).toLocaleString('tr-TR') : (x>=20 ? String(Math.round(x)) : String(Math.round(x*10)/10).replace('.',','))) + ' \u20BA'; }
+  function stlNorm(t){ t = String(t==null?'':t); try { return t.toLocaleLowerCase('tr').trim(); } catch(e){ return t.toLowerCase().trim(); } }
   function setToplam(s){ var t=0; for(var i=0;i<s.k.length;i++) t+=s.k[i][4]; return t; }
   function sahipToplam(s){ var t=0; for(var i=0;i<s.k.length;i++){ if(stlSahip.has(s.k[i][0])) t+=s.k[i][4]; } return t; }
   function sahipSay(s){ var n=0; for(var i=0;i<s.k.length;i++) if(stlSahip.has(s.k[i][0])) n++; return n; }
+  function setBul(slug){ if(!SETLER) return null; for(var i=0;i<SETLER.length;i++) if(SETLER[i].s===slug) return SETLER[i]; return null; }
 
   window.showSetler = function(){
     ['cheapest-view','price-view','placeholder-view','home-view','ripper-view','guide-view','packev-view','vendors-view','borsa-view','psa-view'].forEach(function(id){var e=document.getElementById(id); if(e) e.classList.add('hidden');});
@@ -7053,7 +7062,7 @@ function psRender(){
 
   function stlRender(){
     if(!SETLER) return;
-    if(stlAcik){ var s=null,i; for(i=0;i<SETLER.length;i++) if(SETLER[i].s===stlAcik){ s=SETLER[i]; break; } if(s){ stlDetay(s); return; } stlAcik=null; }
+    if(stlAcik){ var s = setBul(stlAcik); if(s){ stlDetay(s); return; } stlAcik = null; }
     stlGrid();
   }
 
@@ -7062,17 +7071,22 @@ function psRender(){
     return '<div class="stl-mult"><span class="stl-mult-lbl">PriceCharting \u00e7arpan\u0131</span>' + ms.map(function(m){ return '<button class="stl-mbtn'+(m===stlMult?' on':'')+'" onclick="stlSetMult('+m+')">'+ (m===1?'1\u00d7':(String(m).replace('.',',')+'\u00d7')) +'</button>'; }).join('') + '</div>';
   }
 
-  function stlGrid(){
+  function araKutu(id, ph, fn, deger){
+    return '<div class="psk-search stl-ara"><input type="search" id="'+id+'" placeholder="'+ph+'" value="'+escapeHtml(deger||'')+'" oninput="'+fn+'(this.value)"></div>';
+  }
+
+  /* ---------- set listesi ---------- */
+  function stlGridKartlar(){
     var siralar = SETLER.slice();
     if(stlSort==='ucuz') siralar.sort(function(a,b){ return setToplam(a)-setToplam(b); });
     else if(stlSort==='pahali') siralar.sort(function(a,b){ return setToplam(b)-setToplam(a); });
     else if(stlSort==='yeni') siralar.sort(function(a,b){ return String(b.y||'')<String(a.y||'')?-1:1; });
     else if(stlSort==='az') siralar.sort(function(a,b){ return String(a.a).localeCompare(String(b.a),'tr'); });
-    var sorts=[['ucuz','En ucuz'],['pahali','En pahal\u0131'],['yeni','Yeni\u2192eski'],['az','A\u2192Z']];
-    var bar = '<div class="stl-sort">' + sorts.map(function(x){ return '<button class="stl-sbtn'+(x[0]===stlSort?' on':'')+'" onclick="stlSetSort(\''+x[0]+'\')">'+x[1]+'</button>'; }).join('') + '</div>';
-    var html = bar + multBar() + '<div class="stl-grid">';
+    var q = stlNorm(stlAraSet), html = '';
     for(var i=0;i<siralar.length;i++){
-      var s=siralar[i], tot=setToplam(s), n=s.k.length, sn=sahipSay(s);
+      var s=siralar[i];
+      if(q && stlNorm(s.a).indexOf(q)<0 && String(s.y||'').indexOf(q)<0) continue;
+      var tot=setToplam(s), n=s.k.length, sn=sahipSay(s);
       var prog = sn>0 ? '<div class="stl-prog"><i style="width:'+Math.round(100*sn/n)+'%"></i></div><div class="stl-prog-txt">'+sn+'/'+n+' \u00b7 kalan '+stlTL(tot-sahipToplam(s))+'</div>' : '';
       html += '<a class="stl-set" onclick="stlAc(\''+s.s+'\');return false;" href="#">'
         + '<div class="stl-set-top"><div class="stl-set-ad">'+escapeHtml(s.a)+'</div><div class="stl-set-yil">'+escapeHtml(String(s.y||''))+'</div></div>'
@@ -7080,43 +7094,92 @@ function psRender(){
         + '<div class="stl-set-adet">'+n+' kart \u00b7 tamamlama maliyeti</div>'
         + prog + '</a>';
     }
-    html += '</div>';
-    document.getElementById('stl-body').innerHTML = html;
+    if(!html) html = '<div class="stl-empty">\u201c'+escapeHtml(stlAraSet)+'\u201d ile e\u015fle\u015fen set yok.</div>';
+    return html;
   }
 
-  function stlDetay(s){
+  function stlGrid(){
+    var sorts=[['ucuz','En ucuz'],['pahali','En pahal\u0131'],['yeni','Yeni\u2192eski'],['az','A\u2192Z']];
+    var bar = '<div class="stl-sort">' + sorts.map(function(x){ return '<button class="stl-sbtn'+(x[0]===stlSort?' on':'')+'" onclick="stlSetSort(\''+x[0]+'\')">'+x[1]+'</button>'; }).join('') + '</div>';
+    document.getElementById('stl-body').innerHTML = bar + multBar()
+      + araKutu('stl-qset', 'Set ara (\u00f6r. Base Set)', 'stlAraSetYaz', stlAraSet)
+      + '<div class="stl-grid" id="stl-gridliste">' + stlGridKartlar() + '</div>';
+  }
+
+  window.stlAraSetYaz = function(v){
+    stlAraSet = v;
+    var el = document.getElementById('stl-gridliste');
+    if(el) el.innerHTML = stlGridKartlar();
+  };
+
+  /* ---------- tek set ---------- */
+  function sahipKutuHTML(s){
     var tot=setToplam(s), n=s.k.length, sn=sahipSay(s), st=sahipToplam(s);
-    var chase = s.k[0];
-    var head = '<button class="stl-geri" onclick="stlGeri();return false;">\u2190 T\u00fcm setler</button>'
-      + '<div class="stl-d-head"><div><div class="stl-d-ad">'+escapeHtml(s.a)+'</div><div class="stl-d-yil">'+escapeHtml(String(s.y||''))+' \u00b7 '+n+' kart</div></div>'
-      + '<div class="stl-d-tot"><div class="stl-d-tot-lbl">Tamamlama</div><div class="stl-d-tot-val">'+stlTL(tot)+'</div></div></div>';
-    if(sn>0) head += '<div class="stl-d-owned"><div class="stl-prog"><i style="width:'+Math.round(100*sn/n)+'%"></i></div><span>Sahip <b>'+sn+'/'+n+'</b> \u00b7 Kalan <b>'+stlTL(tot-st)+'</b></span></div>';
-    if(chase && chase[4]>0) head += '<div class="stl-chase">\uD83D\uDC8E En pahal\u0131: <b>'+escapeHtml(chase[1])+' #'+escapeHtml(chase[2])+'</b> \u2014 '+stlTL(chase[4])+' (toplam\u0131n %'+Math.round(100*chase[4]/tot)+')</div>';
-    head += multBar();
-    var rows='';
+    return '<div class="stl-prog"><i style="width:'+Math.round(100*sn/n)+'%"></i></div>'
+      + '<span>Sahip <b>'+sn+'/'+n+'</b> \u00b7 Kalan <b>'+stlTL(tot-st)+'</b></span>';
+  }
+
+  function stlSatirlar(s){
+    var q = stlNorm(stlAra), out = '', say = 0;
     for(var i=0;i<s.k.length;i++){
-      var k=s.k[i], has=stlSahip.has(k[0]);
-      rows += '<div class="stl-row'+(has?' owned':'')+'">'
+      var k=s.k[i];
+      if(q && stlNorm(k[1]).indexOf(q)<0 && String(k[2]).indexOf(q)<0) continue;
+      say++;
+      var has = stlSahip.has(k[0]);
+      out += '<div class="stl-row'+(has?' owned':'')+'" data-slug="'+k[0]+'">'
         + '<label class="stl-chk"><input type="checkbox" '+(has?'checked':'')+' onclick="stlSahipTikla(\''+k[0]+'\')"><span></span></label>'
         + '<a class="stl-row-main" href="/kart/'+encodeURIComponent(k[0])+'">'
         + '<div class="stl-row-img"><img loading="lazy" src="https://images.pokemontcg.io/'+encodeURIComponent(s.i)+'/'+encodeURIComponent(k[2])+'.png" alt="" onerror="this.style.visibility=\'hidden\'"></div>'
         + '<div class="stl-row-mid"><div class="stl-row-ad">'+escapeHtml(k[1])+'</div><div class="stl-row-sub">#'+escapeHtml(k[2])+' \u00b7 '+escapeHtml(k[3])+'</div></div>'
         + '<div class="stl-row-fiyat">'+stlTL(k[4])+'</div></a></div>';
     }
-    document.getElementById('stl-body').innerHTML = head + '<div class="stl-list">'+rows+'</div>';
+    if(!say) return '<div class="stl-empty">Bu sette \u201c'+escapeHtml(stlAra)+'\u201d ile e\u015fle\u015fen kart yok.</div>';
+    return (q ? '<div class="stl-say">'+say+' kart bulundu \u00b7 <a href="#" onclick="stlAraTemizle();return false;">temizle</a></div>' : '') + out;
   }
 
-  window.stlAc = function(slug){ stlAcik = slug; window.scrollTo({top:0}); stlRender(); };
-  window.stlGeri = function(){ stlAcik = null; window.scrollTo({top:0}); stlRender(); };
+  function stlDetay(s){
+    var tot=setToplam(s), n=s.k.length, chase=s.k[0];
+    var head = '<button class="stl-geri" onclick="stlGeri();return false;">\u2190 T\u00fcm setler</button>'
+      + '<div class="stl-d-head"><div><div class="stl-d-ad">'+escapeHtml(s.a)+'</div><div class="stl-d-yil">'+escapeHtml(String(s.y||''))+' \u00b7 '+n+' kart</div></div>'
+      + '<div class="stl-d-tot"><div class="stl-d-tot-lbl">Tamamlama</div><div class="stl-d-tot-val">'+stlTL(tot)+'</div></div></div>'
+      + '<div class="stl-d-owned" id="stl-sahipkutu">'+sahipKutuHTML(s)+'</div>';
+    if(chase && chase[4]>0) head += '<div class="stl-chase">\uD83D\uDC8E En pahal\u0131: <b>'+escapeHtml(chase[1])+' #'+escapeHtml(chase[2])+'</b> \u2014 '+stlTL(chase[4])+' (toplam\u0131n %'+Math.round(100*chase[4]/tot)+')</div>';
+    head += multBar() + araKutu('stl-q', 'Bu sette kart ara (\u00f6r. Charizard veya 4)', 'stlAraYaz', stlAra);
+    document.getElementById('stl-body').innerHTML = head + '<div class="stl-list" id="stl-liste">'+stlSatirlar(s)+'</div>';
+  }
+
+  window.stlAraYaz = function(v){
+    stlAra = v;
+    var s = setBul(stlAcik); if(!s) return;
+    var el = document.getElementById('stl-liste');
+    if(el) el.innerHTML = stlSatirlar(s);
+  };
+  window.stlAraTemizle = function(){
+    stlAra = '';
+    var i = document.getElementById('stl-q'); if(i) i.value = '';
+    var s = setBul(stlAcik); if(!s) return;
+    var el = document.getElementById('stl-liste'); if(el) el.innerHTML = stlSatirlar(s);
+  };
+
+  window.stlAc = function(slug){ stlAcik = slug; stlAra = ''; window.scrollTo({top:0}); stlRender(); };
+  window.stlGeri = function(){ stlAcik = null; stlAra = ''; window.scrollTo({top:0}); stlRender(); };
   window.stlSetMult = function(m){ stlMult = m; stlRender(); };
   window.stlSetSort = function(x){ stlSort = x; stlGrid(); };
+
+  /* tik: tüm listeyi yeniden çizmek yerine sadece ilgili satırı ve sayacı güncelle
+     (arama kutusu, odak ve sayfa konumu korunsun) */
   window.stlSahipTikla = function(slug){
     if(stlSahip.has(slug)) stlSahip.delete(slug); else stlSahip.add(slug);
     stlKaydet();
-    if(stlAcik) stlRender();
+    if(!stlAcik) return;
+    var s = setBul(stlAcik); if(!s) return;
+    var row = document.querySelector('.stl-row[data-slug="'+slug+'"]');
+    if(row){ if(stlSahip.has(slug)) row.classList.add('owned'); else row.classList.remove('owned'); }
+    var kutu = document.getElementById('stl-sahipkutu');
+    if(kutu) kutu.innerHTML = sahipKutuHTML(s);
   };
 
-  /* r13: showHome/showPrice gibi fonksiyonlar doğrudan da çağrılabiliyor (logo tıklaması vb.)
+  /* showHome/showPrice gibi fonksiyonlar doğrudan da çağrılabiliyor (logo tıklaması vb.)
      ve bu bölümü tanımıyorlar — hepsini sarmalayıp bölümü gizlet. */
   ['Home','Price','Ripper','PackEV','Vendors','Guide','Placeholder','Cheapest','Borsa','PSA'].forEach(function(v){
     var f = window['show'+v];
