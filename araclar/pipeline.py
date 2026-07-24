@@ -304,6 +304,19 @@ def setler_uret(cards):
         open(INDEX, 'w', encoding='utf-8').write(hh)
         log('set tamamlama kutusu: en ucuz 3 set yazıldı')
 
+    # ana sayfa "Set Placeholder" kutusu: en yeni 3 set
+    hh = open(INDEX, encoding='utf-8').read()
+    rx_pr = re.compile(r'(<div class="mg-mini-rows" id="mg-print-rows">).*?(</div><!--/print-rows-->)', re.DOTALL)
+    if rx_pr.search(hh):
+        enyeni = sorted(out, key=lambda z: (str(z['y']), z['s']), reverse=True)[:3]
+        sat2 = []
+        for z in enyeni:
+            ad = z['a'] if len(z['a']) <= 19 else z['a'][:18] + '…'
+            sat2.append(f'<div class="mg-mini-row"><span>{ad}</span><b>{len(z["k"])} kart</b></div>')
+        hh = rx_pr.sub(lambda m: m.group(1) + ''.join(sat2) + m.group(2), hh, count=1)
+        open(INDEX, 'w', encoding='utf-8').write(hh)
+        log('set placeholder kutusu: en yeni 3 set yazıldı')
+
 # ── 7. Sağlamalar ────────────────────────────────────────────────────────
 def kontrol():
     r = subprocess.run(['node', '--check', WORKER_JS], capture_output=True, text=True)
