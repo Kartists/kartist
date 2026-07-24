@@ -190,6 +190,10 @@
 .stl-say{color:var(--muted);font-size:13px;margin:-2px 0 6px 2px;}
 .stl-say a{color:var(--cyan);text-decoration:none;}
 .stl-say a:hover{text-decoration:underline;}
+/* === r16: menüde 9 araç var — sığması için hafif sıkıştırma ============ */
+.mg-nav{max-width:76%;}
+.mg-nav a{padding:8px 11px;}
+@media (max-width:1250px){ .mg-nav{max-width:80%;} .mg-nav a{padding:7px 9px;font-size:12.5px;} }
 /* === r15: borsa dizilimi + satıcılar + paket analizi linki ============ */
 .pev-set-link{color:inherit;text-decoration:none;border-bottom:1px dotted rgba(62,240,238,.45);}
 .pev-set-link:hover{color:var(--cyan);border-bottom-color:var(--cyan);}
@@ -3030,6 +3034,9 @@ header{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:18px
     <a href="#" data-v="Vendors" onclick="mgGo('Vendors',this);return false;">Satıcılar</a>
     <a href="#" data-v="Guide" onclick="mgGo('Guide',this);return false;">Sahte Rehberi</a>
     <a href="#" data-v="Placeholder" onclick="mgGo('Placeholder',this);return false;">Set Placeholder</a>
+    <a href="#" data-v="Borsa" onclick="mgGo('Borsa',this);return false;">Kart Borsası</a>
+    <a href="#" data-v="PSA" onclick="mgGo('PSA',this);return false;">PSA Kârlılık</a>
+    <a href="#" data-v="Setler" onclick="mgGo('Setler',this);return false;">Set Tamamlama</a>
   </nav>
 </header>
 
