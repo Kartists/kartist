@@ -318,6 +318,73 @@ def setler_uret(cards):
         log('set placeholder kutusu: en yeni 3 set yazıldı')
 
 # ── 7. Sağlamalar ────────────────────────────────────────────────────────
+# --- 6e. sitemap: index + alt haritalar (her gece yenilenir) ---
+def sitemap_uret(cards):
+    import urllib.parse
+    SITE = 'https://kartist.com.tr'
+    pub = os.path.join(W, 'public')
+    bugun = time.strftime('%Y-%m-%d')
+
+    wsrc = open(WORKER_JS, encoding='utf-8').read()
+    POKE = json.loads(re.search(r'const POKEMON_CARDS = (\{.*?\});\n', wsrc).group(1))
+    SETLER = json.loads(re.search(r'const SETS = (\{.*?\});\n', wsrc).group(1))
+
+    # araç/sabit sayfalar (SPA rotaları)
+    SABIT = ['', 'fiyatlar', 'en-ucuz', 'paket-ac', 'paket-analizi', 'saticilar',
+             'sahte-rehberi', 'borsa', 'psa-karlilik', 'set-placeholder', 'set-tamamlama']
+
+    def q(yol):
+        # slug'da ? ve ! gibi karakterler var (unown-unseen-forces-?) — kodlanmazsa 404
+        return urllib.parse.quote(yol, safe='/')
+
+    def yaz(dosya, kayitlar):
+        p = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+        for yol, freq, pri in kayitlar:
+            p += ['  <url>',
+                  f'    <loc>{SITE}/{q(yol)}</loc>',
+                  f'    <lastmod>{bugun}</lastmod>',
+                  f'    <changefreq>{freq}</changefreq>',
+                  f'    <priority>{pri}</priority>',
+                  '  </url>']
+        p.append('</urlset>')
+        open(os.path.join(pub, dosya), 'w', encoding='utf-8').write('\n'.join(p) + '\n')
+
+    # 1) sabit sayfalar + set sayfaları
+    kayit = [(y, 'daily' if y in ('', 'fiyatlar', 'borsa') else 'weekly',
+              '1.0' if y == '' else '0.9') for y in SABIT]
+    kayit += [(st, 'weekly', '0.8') for st in sorted(SETLER)]
+    yaz('sitemap-sets.xml', kayit)
+
+    # 2) pokemon sayfaları
+    yaz('sitemap-pokemon.xml', [('pokemon/' + p, 'weekly', '0.7') for p in sorted(POKE)])
+
+    # 3) kart sayfaları — 10.000'lik parçalar
+    kslug = sorted(cards)
+    parca = [kslug[i:i + 10000] for i in range(0, len(kslug), 10000)]
+    for n, grup in enumerate(parca, 1):
+        yaz(f'sitemap-cards-{n}.xml', [('kart/' + k, 'weekly', '0.4') for k in grup])
+
+    # 4) index
+    cocuk = ['sitemap-sets.xml', 'sitemap-pokemon.xml'] + \
+            [f'sitemap-cards-{i}.xml' for i in range(1, len(parca) + 1)]
+    p = ['<?xml version="1.0" encoding="UTF-8"?>',
+         '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for c in cocuk:
+        p += ['  <sitemap>', f'    <loc>{SITE}/{c}</loc>',
+              f'    <lastmod>{bugun}</lastmod>', '  </sitemap>']
+    p.append('</sitemapindex>')
+    open(os.path.join(pub, 'sitemap.xml'), 'w', encoding='utf-8').write('\n'.join(p) + '\n')
+
+    # set küçülürse artakalan parça dosyalarını sil
+    n = len(parca) + 1
+    while os.path.exists(os.path.join(pub, f'sitemap-cards-{n}.xml')):
+        os.remove(os.path.join(pub, f'sitemap-cards-{n}.xml')); n += 1
+
+    log(f'sitemap: {len(kayit)} sabit+set, {len(POKE)} pokemon, '
+        f'{len(kslug)} kart ({len(parca)} parça), lastmod {bugun}')
+
+
 def kontrol():
     r = subprocess.run(['node', '--check', WORKER_JS], capture_output=True, text=True)
     assert r.returncode == 0, 'worker.js SYNTAX HATASI: ' + r.stderr[:400]
@@ -342,6 +409,7 @@ def main():
     kur_enjekte(kur)
     kutu_guncelle(borsa, psa)
     setler_uret(cards)
+    sitemap_uret(cards)
     kontrol()
     log(f'BİTTİ — {degisen} kart fiyatı güncellendi')
 
