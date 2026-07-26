@@ -154,6 +154,9 @@ def set_sayfalari(cards):
     # scrydex CDN'ine çevir — sayfalar her gece kendini onarsın
     rx_gorsel = re.compile(r'https://images\.pokemontcg\.io/(me2pt5|me3|me4)/([0-9A-Za-z_\-]+)\.png')
     rx_gorsel2 = re.compile(r'https://images\.scrydex\.com/pokemon/(me2pt5|me3|me4)-([0-9A-Za-z_\-]+)/large')
+    # r18: ham ? / ! iceren kart linkleri 404 veriyor — yuzde-kodla
+    import urllib.parse
+    rx_link = re.compile(r'href="https://kartist\.com\.tr/kart/([^"]*[?!][^"]*)"')
     set_kartlari = {}
     for _sl, _v in cards.items():
         set_kartlari.setdefault(_v[5], []).append((_sl, _v[0], _v[1], _v[2]))
@@ -181,6 +184,8 @@ def set_sayfalari(cards):
         s2 = rx_ct.sub(rep, s2)
         if st in set_kartlari:
             s2 = rx_tbody.sub(lambda m: m.group(1) + en_satirlar(set_kartlari[st]) + m.group(3), s2, count=1)
+        s2 = rx_link.sub(lambda m: 'href="https://kartist.com.tr/kart/'
+                         + urllib.parse.quote(m.group(1), safe='') + '"', s2)
         s2 = rx_gorsel.sub(lambda m: f'https://images.scrydex.com/pokemon/{m.group(1)}-{m.group(2)}/small', s2)
         s2 = rx_gorsel2.sub(lambda m: f'https://images.scrydex.com/pokemon/{m.group(1)}-{m.group(2)}/small', s2)
         if st in enler:
