@@ -157,6 +157,11 @@ def set_sayfalari(cards):
     # r18: ham ? / ! iceren kart linkleri 404 veriyor — yuzde-kodla
     import urllib.parse
     rx_link = re.compile(r'href="https://kartist\.com\.tr/kart/([^"]*[?!][^"]*)"')
+    # r19: favicon og-image.png'yi gosteriyordu (1200x630, kare degil) — Google kabul etmiyor
+    rx_fav = re.compile(r'<link rel="icon" type="image/png" href="https://kartist\.com\.tr/og-image\.png">')
+    FAV = ('<link rel="icon" href="https://kartist.com.tr/favicon.ico" sizes="any">'
+           '<link rel="icon" type="image/png" sizes="144x144" href="https://kartist.com.tr/favicon-144.png">'
+           '<link rel="apple-touch-icon" href="https://kartist.com.tr/apple-touch-icon.png">')
     set_kartlari = {}
     for _sl, _v in cards.items():
         set_kartlari.setdefault(_v[5], []).append((_sl, _v[0], _v[1], _v[2]))
@@ -186,6 +191,7 @@ def set_sayfalari(cards):
             s2 = rx_tbody.sub(lambda m: m.group(1) + en_satirlar(set_kartlari[st]) + m.group(3), s2, count=1)
         s2 = rx_link.sub(lambda m: 'href="https://kartist.com.tr/kart/'
                          + urllib.parse.quote(m.group(1), safe='') + '"', s2)
+        s2 = rx_fav.sub(FAV, s2)
         s2 = rx_gorsel.sub(lambda m: f'https://images.scrydex.com/pokemon/{m.group(1)}-{m.group(2)}/small', s2)
         s2 = rx_gorsel2.sub(lambda m: f'https://images.scrydex.com/pokemon/{m.group(1)}-{m.group(2)}/small', s2)
         if st in enler:
