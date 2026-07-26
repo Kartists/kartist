@@ -9,6 +9,9 @@ const SITE = "https://kartist.com.tr";
 
 /* r15: yeni Mega Evolution setleri pokemontcg.io'da yok — scrydex CDN'inde.
    (Ascended Heroes=me2pt5, Perfect Order=me3, Chaos Rising=me4) */
+/* r18: slug'da ? ve ! olabiliyor (unown-unseen-forces-?) — ham bırakılırsa 404 */
+function kartYolu(slug){ return SITE + '/kart/' + encodeURIComponent(slug); }
+
 function kartGorsel(sid, num, boy){
   if(sid === 'me2pt5' || sid === 'me3' || sid === 'me4')
     return `https://images.scrydex.com/pokemon/${sid}-${num}/${boy || 'small'}`;
@@ -92,7 +95,7 @@ function cardTile(cslug){
   const c = CARDS[cslug];
   if(!c) return '';
   const price = c[2]>0 ? (fmtTL(c[2])+' ₺') : '—';
-  return `<a class="cl-item" href="${SITE}/kart/${cslug}"><img class="cl-img" src="${kartGorsel(c[4],c[1])}" alt="${esc(c[0])} kartı" loading="lazy" onerror="this.remove()"><span class="cl-name">${esc(c[0])}</span><span class="cl-meta"><span>#${esc(c[1])}</span><span class="cl-price">${price}</span></span></a>`;
+  return `<a class="cl-item" href="${kartYolu(cslug)}"><img class="cl-img" src="${kartGorsel(c[4],c[1])}" alt="${esc(c[0])} kartı" loading="lazy" onerror="this.remove()"><span class="cl-name">${esc(c[0])}</span><span class="cl-meta"><span>#${esc(c[1])}</span><span class="cl-price">${price}</span></span></a>`;
 }
 
 // KART SAYFASI
@@ -101,7 +104,7 @@ function cardPage(slug, c){
   const title = esc(name + ' ' + (num?('#'+num+' '):'') + setName + ' Fiyatı ve Değeri | Kartist');
   const tryEst = price>0 ? fmtTL(price)+' ₺' : 'Fiyat yok';
   const desc = esc(name + ' (' + setName + ' ' + year + ') Pokemon kartı. Güncel değer: ' + tryEst + '. Rarity: ' + rarity + '. Türkiye fiyatları — Kartist.');
-  const canonical = SITE + '/kart/' + slug;
+  const canonical = kartYolu(slug);
   const packExt = (SETS[setSlug] && SETS[setSlug].ext) || 'webp';
   const ogImg = SETS[setSlug] ? (SITE+'/pack-'+setSlug+'.'+packExt) : (SITE+'/og-image.png');
   const pslug = pokeSlug(name);
